@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="372.242" viewBox="0 0 1240 372.242">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_361578" data-name="Rectángulo 361578" width="302" height="139" transform="translate(0 0.426)" fill="#ffa686" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectángulo_361579" data-name="Rectángulo 361579" width="302" height="156" transform="translate(0 -0.395)" fill="#f2f7df" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Elipse_5259" x="217.555" y="64" width="210" height="210" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_361581" data-name="Rectángulo 361581" width="304" height="140" transform="translate(0.145 -0.314)" fill="#ffa686" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectángulo_361580" data-name="Rectángulo 361580" width="304" height="156" transform="translate(0.145 -0.134)" fill="#f2f7df" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Elipse_5262" x="541.555" y="62" width="210" height="210" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-5">
+      <rect id="Rectángulo_361583" data-name="Rectángulo 361583" width="304" height="139" transform="translate(-0.242 0.426)" fill="#ffa686" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Rectángulo_361582" data-name="Rectángulo 361582" width="304" height="156" transform="translate(-0.242 -0.395)" fill="#f2f7df" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <filter id="Elipse_5267" x="857.555" y="64" width="211" height="210" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_501624" x="619" y="118.242" width="57" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_501624-2" x="295" y="122.242" width="57" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_501624-3" x="937" y="118.242" width="57" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1084196" data-name="Grupo 1084196" transform="translate(-180.077 -3297.945)">
+    <rect id="Rectángulo_361746" data-name="Rectángulo 361746" width="1240" height="361" transform="translate(180.077 3309.188)" fill="#fff"/>
+    <g id="Grupo_10" data-name="Grupo 10" transform="translate(473.077 3285.188)">
+      <text id="_1" data-name="1" transform="translate(16.478 377)" fill="#0b481e" font-size="32" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1</tspan></text>
+      <text id="_2" data-name="2" transform="translate(341.555 377)" fill="#0b481e" font-size="32" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+      <text id="_3" data-name="3" transform="translate(657.478 377)" fill="#0b481e" font-size="32" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">3</tspan></text>
+      <g id="Grupo_1" data-name="Grupo 1" transform="translate(-120.445 39.332)">
+        <g id="Enmascarar_grupo_1083809" data-name="Enmascarar grupo 1083809" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <circle id="Elipse_5255" data-name="Elipse 5255" cx="139" cy="139" r="139" transform="translate(11 0.426)" fill="#ffa686"/>
+          <circle id="Elipse_5256" data-name="Elipse 5256" cx="96" cy="96" r="96" transform="translate(54 43.426)" fill="#fff"/>
+        </g>
+        <g id="Enmascarar_grupo_1083810" data-name="Enmascarar grupo 1083810" transform="translate(0 146.821)" clip-path="url(#clip-path-2)">
+          <circle id="Elipse_5257" data-name="Elipse 5257" cx="139" cy="139" r="139" transform="translate(11 -146.395)" fill="#ffe4da"/>
+          <circle id="Elipse_5258" data-name="Elipse 5258" cx="96" cy="96" r="96" transform="translate(54 -103.395)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -172.55, -26.57)" filter="url(#Elipse_5259)">
+          <circle id="Elipse_5259-2" data-name="Elipse 5259" cx="96" cy="96" r="96" transform="translate(226.55 70)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Grupo_2" data-name="Grupo 2" transform="translate(199.02 13.02)">
+        <g id="Enmascarar_grupo_1083812" data-name="Enmascarar grupo 1083812" transform="translate(303.68 302.424) rotate(180)" clip-path="url(#clip-path-3)">
+          <ellipse id="Elipse_5263" data-name="Elipse 5263" cx="138.5" cy="139" rx="138.5" ry="139" transform="translate(10.145 -0.314)" fill="#adce32"/>
+          <circle id="Elipse_5264" data-name="Elipse 5264" cx="96" cy="96" r="96" transform="translate(53.145 42.687)" fill="#fff"/>
+        </g>
+        <g id="Enmascarar_grupo_1083811" data-name="Enmascarar grupo 1083811" transform="translate(303.68 155.604) rotate(180)" clip-path="url(#clip-path-4)">
+          <path id="Trazado_716714" data-name="Trazado 716714" d="M138.985,0A138.985,138.985,0,1,1,0,138.985,138.985,138.985,0,0,1,138.985,0Z" transform="translate(10.409 -146.712)" fill="#e7fc98"/>
+          <circle id="Elipse_5261" data-name="Elipse 5261" cx="96" cy="96" r="96" transform="translate(53.145 -104.134)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -492.02, -0.26)" filter="url(#Elipse_5262)">
+          <circle id="Elipse_5262-2" data-name="Elipse 5262" cx="96" cy="96" r="96" transform="translate(742.55 260) rotate(180)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Grupo_3" data-name="Grupo 3" transform="translate(520.797 39.332)">
+        <g id="Enmascarar_grupo_1083814" data-name="Enmascarar grupo 1083814" transform="translate(0 0)" clip-path="url(#clip-path-5)">
+          <ellipse id="Elipse_5268" data-name="Elipse 5268" cx="139.5" cy="139" rx="139.5" ry="139" transform="translate(9.758 0.426)" fill="#ffd947"/>
+          <ellipse id="Elipse_5269" data-name="Elipse 5269" cx="96.5" cy="96" rx="96.5" ry="96" transform="translate(52.758 43.426)" fill="#fff"/>
+        </g>
+        <g id="Enmascarar_grupo_1083813" data-name="Enmascarar grupo 1083813" transform="translate(0 146.821)" clip-path="url(#clip-path-6)">
+          <ellipse id="Elipse_5265" data-name="Elipse 5265" cx="139.5" cy="139" rx="139.5" ry="139" transform="translate(9.758 -146.395)" fill="#fff1ba"/>
+          <ellipse id="Elipse_5266" data-name="Elipse 5266" cx="96.5" cy="96" rx="96.5" ry="96" transform="translate(52.758 -103.395)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -813.8, -26.57)" filter="url(#Elipse_5267)">
+          <ellipse id="Elipse_5267-2" data-name="Elipse 5267" cx="96.5" cy="96" rx="96.5" ry="96" transform="translate(866.55 70)" fill="#fff"/>
+        </g>
+      </g>
+      <circle id="Elipse_1" data-name="Elipse 1" cx="8.5" cy="8.5" r="8.5" transform="translate(17.555 326)" fill="#ffa686"/>
+      <circle id="Elipse_2" data-name="Elipse 2" cx="8.5" cy="8.5" r="8.5" transform="translate(341.555 326)" fill="#adce32"/>
+      <circle id="Elipse_3" data-name="Elipse 3" cx="8.5" cy="8.5" r="8.5" transform="translate(658.555 326)" fill="#ffd947"/>
+      <text id="Recolección" transform="translate(-13 199)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Recolección</tspan></text>
+      <text id="Fermentación" transform="translate(309 196)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Fermentación</tspan></text>
+      <text id="Traslado" transform="translate(641 195)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Traslado</tspan></text>
+      <g id="Grupo_7" data-name="Grupo 7" transform="translate(335 137.474)">
+        <g transform="matrix(1, 0, 0, 1, -628, -124.72)" filter="url(#Trazado_501624)">
+          <path id="Trazado_501624-4" data-name="Trazado 501624" d="M19.5,0A19.5,19.5,0,1,1,0,19.5,19.5,19.5,0,0,1,19.5,0Z" transform="translate(667 163.24) rotate(180)" fill="#ffd947"/>
+        </g>
+        <text id="_" data-name="+" transform="translate(14.5 26.026)" fill="#12263f" font-size="19" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">+</tspan></text>
+      </g>
+      <g id="Grupo_8" data-name="Grupo 8" transform="translate(11 141.474)">
+        <g transform="matrix(1, 0, 0, 1, -304, -128.72)" filter="url(#Trazado_501624-2)">
+          <path id="Trazado_501624-5" data-name="Trazado 501624" d="M19.5,0A19.5,19.5,0,1,1,0,19.5,19.5,19.5,0,0,1,19.5,0Z" transform="translate(343 167.24) rotate(180)" fill="#ffd947"/>
+        </g>
+        <text id="_2-2" data-name="+" transform="translate(14.5 26.026)" fill="#12263f" font-size="19" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">+</tspan></text>
+      </g>
+      <g id="Grupo_9" data-name="Grupo 9" transform="translate(653 137.474)">
+        <g transform="matrix(1, 0, 0, 1, -946, -124.72)" filter="url(#Trazado_501624-3)">
+          <path id="Trazado_501624-6" data-name="Trazado 501624" d="M19.5,0A19.5,19.5,0,1,1,0,19.5,19.5,19.5,0,0,1,19.5,0Z" transform="translate(985 163.24) rotate(180)" fill="#ffd947"/>
+        </g>
+        <text id="_3-2" data-name="+" transform="translate(14.5 26.026)" fill="#12263f" font-size="19" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">+</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

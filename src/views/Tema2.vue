@@ -1,12 +1,158 @@
 <template lang="pug">
-.curso-main-container.pb-3
-  BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
-        span 2
-      h1 Titulo de primer nivel
+  .curso-main-container.pb-3
+    BannerInterno
+    .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+  
+      .titulo-principal.color-acento-contenido
+        .titulo-principal__numero
+          span 2
+        h1(data-aos="fade-right") Acondicionamiento del terreno
+  
+      .row.mb-5.align-items-center
+        .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
+          figure
+            img.img-t.m-auto(src='@/assets/curso/temas/tema2/img11.png', alt='')
+        .col-lg-8(data-aos="fade-right")
+          p El agua es un factor esencial en la producción agrícola, es por ello que su disponibilidad debe ser primordial en la granja, en su defecto por la acción de un distrito de riego garantizar un caudal suficiente dependiendo de la actividad agrícola.
+          .cajon.p-4.ps-5.mb-4.clr--lightgreen
+            .row.align-items-center
+              .col-md-3
+                figure
+                  img.img-t.m-auto(src='@/assets/curso/temas/tema2/img12.svg', alt='')
+              .col-md-9
+                p.mb-0 Es importante tener en cuenta que el agua es un recurso natural y que depende de los factores climáticos y de la zona, por tal razón el uso eficiente y el ahorro de agua debe ser una política de la empresa con el objeto de proteger los recursos naturales.
+        
+          p.mb-5 Para realizar un distrito de riego o una concesión de aguas para uso industrial, el primer requisito que se debe tramitar es el permiso de concesión de aguas, el cual consiste en solicitar el derecho de aprovechamiento del agua, ya sea superficial o subterránea para uso doméstico. 
+       
 
+        p.mb-5 Este permiso lo otorgan las Corporaciones Autónomas Regionales al cual pertenezca el territorio en el que se tiene el proyecto de abastecimiento de agua después de la evaluación de la solicitud presentada. Los requerimientos para la solicitud varían de acuerdo a la corporación territorial a la que se dirija, pero generalmente se tiene en cuenta lo siguiente:
+
+        .row.col-lg-10.mx-auto.mb-4
+            .p-3.clr--lightgreen.mb-2(data-aos="fade-left")
+              .row.align-items-center
+                .col-lg-4
+                  figure
+                    img.mb-2.mb-md-0.img-t.m-auto(src='@/assets/curso/temas/tema2/img13.png', alt='')
+                .col-lg-8
+                  p La fuente de captación debe tener un caudal continuo y mayor al caudal solicitado.
+            
+            .p-3.clr--lightorange.mb-2(data-aos="fade-right")
+              .row.align-items-center
+                .col-lg-4
+                  figure
+                   img.mb-2.mb-md-0.img-t.m-auto(src='@/assets/curso/temas/tema2/img14.png', alt='')
+                .col-lg-8
+                  p La propiedad del sitio de captación (permisos de intervención).
+            .p-3.clr--lightgray.mb-2(data-aos="fade-left")
+              .row.align-items-center
+                .col-lg-4
+                  figure
+                    img.mb-2.mb-md-0.img-t.m-auto(src='@/assets/curso/temas/tema2/img15.png', alt='')
+                .col-lg-8
+                  p Descripción del proyecto: se debe presentar el proyecto completo y la finalidad de su construcción. 
+                  
+            .p-3.clr--greengray.mb-2(data-aos="fade-right")
+              .row.align-items-center
+                .col-lg-4
+                  figure
+                    img.mb-2.mb-md-0.img-t.m-auto(src='@/assets/curso/temas/tema2/img16.png', alt='')
+                .col-lg-8
+                  p Costos del proyecto: este valor es la base del pago de los servicios de valoración de la solicitud. 
+                 
+            .p-3.clr--lightgreen.mb-2(data-aos="fade-left")
+              .row.align-items-center
+                .col-lg-4
+                  figure
+                    img.mb-2.mb-md-0.img-t.m-auto(src='@/assets/curso/temas/tema2/img17.png', alt='')
+                .col-lg-8
+                  p Programa de uso eficiente y ahorro de agua: se debe presentar el programa a implementar para la protección del recurso hídrico y de su uso responsable.
+            
+            .p-3.clr--greengray.mb-2(data-aos="fade-right")
+              .row.align-items-center
+                .col-lg-4
+                  figure
+                    img.mb-2.mb-md-0.img-t.m-auto(src='@/assets/curso/temas/tema2/img18.png', alt='')
+                .col-lg-8
+                  p Solicitud de acuerdo al formato de la entidad.
+  
+        p.mb-5.col-md-10.mx-auto Para la solicitud del permiso, es necesario revisar el formato único nacional de concesión de aguas superficiales, como  la guía para la presentación de la solicitud ya que contiene la guía de diligenciamiento y los documentos anexos de la solicitud. 
+
+        figure.mb-4
+          img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+          h2.d-inline-block.mb-0 Drenajes
+
+        p.mb-5 Los drenajes tienen como función principal evacuar el exceso de agua de los niveles freáticos de la finca, esto se logra deprimiendo el nivel del drenaje por debajo de los niveles freáticos mejorando la exploración radicular en busca de nutrientes y la aireación de los suelos. 
+
+        .row.col-lg-10.mx-auto.mb-5
+          .p-3.clr--lightgreen.mb-2(data-aos="fade-left")
+            .row.align-items-center.position-relative.box_leaves
+              figure
+                img.img-t.top-left(src='@/assets/curso/temas/tema2/img20.svg', alt='')   
+              .col-lg-4
+                img.mb-2.mb-md-0.img-t.m-auto(src='@/assets/curso/temas/tema2/img19.png', alt='')
+              .col-lg-7
+                p La instalación de drenajes es un instrumento que facilita la mejora de suelos que han sido sobreexplotados iniciando así su recuperación para volver a ser productivos. 
+                p.mb-0 La necesidad de la adopción de los drenajes, según Liotta, la saturación del suelo y formación de freáticas superficiales, pueden tener diferentes orígenes, por ejemplo:
+              .col-lg-1
+              figure
+                img.img-t.bottom-right(src='@/assets/curso/temas/tema2/img21.svg', alt='')
+        
+        .p-3.clr--greengray.mb-5.col-md-8.mx-auto(data-aos="fade-left")
+          .row.align-items-center
+            p.mb-0 ● Procedencia de zonas topográficamente más altas
+            p.mb-0 ● Influencia de la presión artesiana proveniente de acuíferos profundos en años de abundancia hídrica.
+
+        .mb-5
+        figure.mb-4
+          img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+          h2.d-inline-block.mb-0 Tipos e instrumentos
+
+        p.mb-5 Existen dos tipos de drenaje, los que están construidos a cielo abierto o descubiertos y los subterráneos. Para la construcción de cualquiera de ellos es absolutamente necesaria la intervención de maquinaria (retroexcavadora) o realizarlos a mano. 
+
+        .row.col-lg-10.mx-auto.mb-4
+          .p-3.clr--lightgreen.mb-2(data-aos="fade-left")
+            .row.align-items-center.position-relative.box_leaves
+              figure
+                img.img-t.top-left(src='@/assets/curso/temas/tema2/img20.svg', alt='')   
+              .col-lg-4
+                img.mb-2.mb-md-0.img-t.m-auto(src='@/assets/curso/temas/tema2/img22.svg', alt='')
+              .col-lg-7
+                p El flujo de agua corre por la zanja o por la tubería (si es cerrado) evacuando el fluido del área de los cultivos, así se evita la sobre saturación de agua en los suelos que ocasiona la pérdida de los nutrientes necesarios para una buena cosecha. 
+                p.mb-0 Las desventajas que tienen los dos sistemas en la limpieza general, en el caso de los drenajes cerrados se puede presentar acumulación de sedimentos que generan una obstrucción al paso libre de las aguas y en los abiertos se pierde eficiencia por la acumulación de malezas acuáticas o sedimentación, es por ello que la limpieza en los sistemas abiertos debe realizarse por lo menos una vez al año. En el caso de los drenajes cerrados se deben realizar los cálculos del caudal promedio para su diseño, propendiendo que la pendiente no sea cercana a cero (0) para evitar la sedimentación interna. 
+              .col-lg-1
+              figure
+                img.img-t.bottom-right(src='@/assets/curso/temas/tema2/img21.svg', alt='')
+
+        .mb-5
+        figure.mb-4
+          img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+          h2.d-inline-block.mb-0 Herramientas para drenajes
+
+        p.mb-5 La construcción de los drenajes es relativamente sencilla, solo se necesita el personal para la obra manual o una retroexcavadora en caso de necesitarla. 
+
+        .row.col-lg-10.mx-auto.mb-4
+          .p-3.clr--lightgreen.mb-2(data-aos="fade-left")
+            .row.align-items-center.position-relative.box_leaves
+              figure
+                img.img-t.top-left(src='@/assets/curso/temas/tema2/img20.svg', alt='')   
+              .col-lg-4
+                img.mb-2.mb-md-0.img-t.m-auto(src='@/assets/curso/temas/tema2/img23.svg', alt='')
+              .col-lg-7
+                p Es importante mencionar que las cantidades de excavación, la longitud, la pendiente y otros factores deben ser establecidos con anterioridad y ser verificados en campo con topografía para que se garantice el flujo constante de agua y así, evitar estancamientos que pueden provocar la proliferación de vectores y plagas. 
+                p.mb-0 Para el mantenimiento de los drenajes se hacen necesarias herramientas menores en unos y un sistema de transporte del material que es evacuado de acuerdo a su cantidad. 
+              .col-lg-1
+              figure
+                img.img-t.bottom-right(src='@/assets/curso/temas/tema2/img21.svg', alt='')
+        .mb-5
+        figure.mb-4
+          img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+          h2.d-inline-block.mb-0 Medidas correctivas
+        
+        p.mb-4 Las medidas correctivas y enmiendas se pueden generar a través de procesos de mejora de los cuales existen varias estrategias que se comparten a través del siguiente vídeo: 
+        figure(data-aos="fade-left")
+        .video
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/AVV3sZxEns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      
 </template>
 
 <script>
