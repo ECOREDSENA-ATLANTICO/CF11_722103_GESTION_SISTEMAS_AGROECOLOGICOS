@@ -96,11 +96,6 @@ export default {
         nombreRuta: 'referencias',
       },
       {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
-      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
@@ -196,14 +191,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          nombre: 'Tatiana Villamil',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermúdez Jaimes',
+          nombre: 'Miguel De Jesús Paredes Maestre',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro:
+            'Regional Atlántico -Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
         },
       ],
     },
@@ -211,9 +207,41 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable de Desarrollo Curricular',
+          centro: 'Regional Antioquia - Centro de Servicios de Salud',
+        },
+        {
+          nombre: 'Diana Julieth Núñez Ortegón',
+          cargo: 'Experta Temática',
+          centro: 'Regional Tolima - Centro de Comercio y Servicio',
+        },
+        {
+          nombre: 'Paola Alexandra Moya Peralta',
+          cargo: 'Diseñadora instruccional',
+          centro:
+            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Asesora Metodológica',
+          centro: 'Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Corrector de estilo',
+          centro: 'Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Francisco José Lizcano Reyes',
+          cargo: 'Responsable del equipo',
+          centro:
+            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
+        },
+        {
+          nombre: 'Leyson Fabian Castaño Perez',
+          cargo: 'Soporte organizacional',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -221,24 +249,57 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Marcela Alarcon Granados',
+          cargo: 'Diseño web',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Gustavo Adolfo Marún Suárez',
+          cargo: 'Desarrollo front-end',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Zuleidy María Ruíz Torres',
+          cargo: 'Producción audiovisual',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Mayra Alejandra Alvarez',
+          cargo: 'Validación de diseño y contenido',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Álvaro Araújo Angarita',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          centro:
+            'Regional Atlántico -Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Eulices Orduz Amezquita',
+          cargo: 'Diseño de contenidos digitales',
+          centro:
+            'Regional Atlántico -Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Regional Atlántico -Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
         },
       ],
     },
@@ -264,6 +325,12 @@ export default {
           nombre: 'Margarita Marcela Medrano',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Juan Carlos Cardona Acosta',
+          cargo: 'Validación de recursos digitales',
+          centro:
+            'Regional Atlántico - Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
         },
       ],
     },
