@@ -161,6 +161,8 @@
 
     .row.grd--white-lightyellow-white.cont-fullwidth
       .col-lg-12
+        figure.d-block.d-lg-none
+          img.img-t.mx-auto.p-5(src='@/assets/curso/temas/tema4/img110.svg', alt='Texto que describa la imagen')
         ImagenInfografica.color-acento-botones.mb-5.d-none.d-lg-block
           template(v-slot:imagen)
             figure
