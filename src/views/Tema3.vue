@@ -159,26 +159,26 @@
     p.mb-5 La conservación de suelo es muy importante en la agricultura debido a que un suelo en óptimas condiciones garantizará un rendimiento ideal de los cultivos instalados en él. El efecto de la conservación de los suelos a menudo no genera resultados en corto tiempo debido a que la acción de los microorganismos con la materia orgánica requiere de tiempos largos, sin embargo a largo plazo se reflejan los resultados como mantenimiento de la fertilidad, minimización de la contaminación y la erosión, entre otras que se relacionan a continuación: 
     p.mb-3.text-center Haz clic sobre cada uno de los elementos y recuerda los beneficios de la conservación del suelo: 
 
-    .row.grd--white-lightyellow-white
+    .row.grd--white-lightyellow-white.cont-fullwidth
       .col-lg-12
         ImagenInfografica.color-acento-botones.mb-5.d-none.d-lg-block
           template(v-slot:imagen)
             figure
               img.img-t.mx-auto(src='@/assets/curso/temas/tema3/img31.svg', alt='Texto que describa la imagen')
 
-          .tarjeta.p-3.px-4.shadow(x="59.4%" y="41.4%" numero="")
+          .tarjeta.p-3.px-4.shadow(x="57.9%" y="58.7%" numero="")
             p.m-0 Reducción en la erosión: la intervención continua de los suelos provocan desprendimiento de los mismos generando erosión.
           
-          .tarjeta.p-3.px-4.shadow(x="58.8%" y="59%" numero="")
+          .tarjeta.p-3.px-4.shadow(x="50.9%" y="55.3%" numero="")
             p.m-0 Promueve la infiltración de agua: la siembra directa reduce la evapotranspiración y la compactación de los suelos, aportando a la circulación de agua. 
 
-          .tarjeta.p-3.px-4.shadow(x="50%" y="76.8%" numero="")
+          .tarjeta.p-3.px-4.shadow(x="51%" y="66.8%" numero="")
             p.m-0 Aumento de la calidad y la productividad del suelo: mantener los microorganismos presentes en la tierra en su entorno natural reduce la necesidad de aplicar agroquímicos a los suelos.
 
-          .tarjeta.p-3.px-4.shadow(x="40.5%" y="53%" numero="")
+          .tarjeta.p-3.px-4.shadow(x="40.7%" y="52.3%" numero="")
             p.m-0 Da alimento y refugio a la fauna: el crecimiento natural de la vegetación conlleva a la presencia de fauna. 
 
-          .tarjeta.p-3.px-4.shadow(x="42%" y="34%" numero="")
+          .tarjeta.p-3.px-4.shadow(x="53.8%" y="17.5%" numero="")
             p.m-0 Aporte a la purificación de agua y aire: los suelos son filtros naturales y a la circulación de agua por estos minimiza la carga orgánica que es transformada por los microorganismos del suelo en nutrientes.
 
     .row.col-lg-10.mx-auto.mb-5
