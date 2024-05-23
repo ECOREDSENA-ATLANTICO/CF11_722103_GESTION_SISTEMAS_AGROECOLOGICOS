@@ -99,7 +99,7 @@
         
         .p-3.clr--greengray.mb-5.col-md-8.mx-auto(data-aos="fade-left")
           .row.align-items-center
-            p.mb-0 ● Procedencia de zonas topográficamente más altas
+            p.mb-0 ● Procedencia de zonas topográficamente más altas.
             p.mb-0 ● Influencia de la presión artesiana proveniente de acuíferos profundos en años de abundancia hídrica.
 
         .mb-5

@@ -14,7 +14,7 @@
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema3/img24.png", alt="alt")
+                img(src="@/assets/curso/temas/tema3/img103.png", alt="alt")
             .crd_hover_txt--body.text-center
               h6.mb-3 Labranza de conservación y siembra directa
               p.mb-0.text-white En la labranza de conservación se busca minimizar el número de labranzas en la finca, de esta manera se evita la erosión de los suelos.
@@ -69,7 +69,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema3/img30.png", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img24.png", alt="alt")
           .crd_hover_txt--body.text-center
             h6.mb-3 Cortavientos
             p.mb-0.text-white Los cortavientos o barreras vivas conocidas comúnmente realizan protección de los vientos, sirven como cerramiento perimetral, sombra, entre otros. 
@@ -78,7 +78,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema3/img24.png", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img102.png", alt="alt")
           .crd_hover_txt--body.text-center
             h6.mb-3 Cultivo de cobertura
             p.mb-0.text-white Con la implementación de esta técnica se puede lograr la producción de forraje para el pastoreo de especies pecuarias, mantener la humedad de los suelos, biodiversidad, proporcionar materia prima para la producción de abono, entre otras. 
@@ -87,7 +87,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema3/img28.png", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img104.png", alt="alt")
           .crd_hover_txt--body.text-center
             h6.mb-3 Franjas de protección
             p.mb-0.text-white Esta técnica consiste en instalar árboles y arbustos en las orillas de las masas de agua para evitar sedimentos y el arrastre de agua.
@@ -96,7 +96,7 @@
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
-              img(src="@/assets/curso/temas/tema3/img24.png", alt="alt")
+              img(src="@/assets/curso/temas/tema3/img105.png", alt="alt")
           .crd_hover_txt--body.text-center
             h6.mb-3 Vías navegables con cesped
             p.mb-0.text-white Se trata de un surco para las corrientes de agua cubierto de hierba. Está conectado a una zanja, fosa o corriente para recoger el agua, y las raíces de la hierba mantienen la tierra en su sitio, protegiendo de la erosión del agua, y contribuyendo así a la conservación del suelo.
@@ -116,7 +116,8 @@
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
       h2.d-inline-block.mb-0  Manejo ecológico del suelo
 
-    p.mb-2 El manejo ecológico del suelo hace referencia a los cuidados que se deben tener en cuenta para el uso adecuado de los recursos naturales con el fin de preservarlos y minimizar los impactos negativos que las actividades agrícolas y pecuarias tienen en ellos. Es por ello que el manejo ecológico busca que los suelos estén en óptimas condiciones mediante la conservación efectiva y el mantenimiento de la fertilidad de los mismos, mediante el fortalecimiento de las condiciones para propender que la presencia de los microorganismos.
+    p.mb-0 El manejo ecológico del suelo hace referencia a los cuidados que se deben tener en cuenta para el uso adecuado de los recursos naturales con el fin de preservarlos y minimizar los impactos negativos que las actividades agrícolas y pecuarias tienen en ellos. 
+    p.mb-2 Es por ello que el manejo ecológico busca que los suelos estén en óptimas condiciones mediante la conservación efectiva y el mantenimiento de la fertilidad de los mismos, mediante el fortalecimiento de las condiciones para propender que la presencia de los microorganismos.
     p.mb-4 El éxito en la conservación de los suelos radica en la utilización de las materias orgánicas presentes en los mismos para garantizar la humedad que se necesita para que los microorganismos actúen, aportando los nutrientes necesarios a los suelos a través del proceso de descomposición: 
 
 
@@ -127,7 +128,7 @@
           .tarjeta.clr--greengray
             .p-4
               p.h5 MATERIA ORGÁNICA
-              p Residuos orgánicos
+              p Residuos orgánicos.
       .col-12.col-md-3.col-lg-3.mb-4(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/img28.svg' alt='Imagen Decorativa')
@@ -155,7 +156,7 @@
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
       h2.d-inline-block.mb-0  Prácticas de conservación
 
-    p.mb-5 La conservación de suelo es muy importante en la agricultura debido a que un suelo en óptimas condiciones garantizara un rendimiento ideal de los cultivos instalados en él. El efecto de la conservación de los suelos a menudo no genera resultados en corto tiempo debido a que la acción de los microorganismos con la materia orgánica requiere de tiempos largos, sin embargo a largo plazo se reflejan los resultados como mantenimiento de la fertilidad, minimización de la contaminación y la erosión, entre otras que se relacionan a continuación: 
+    p.mb-5 La conservación de suelo es muy importante en la agricultura debido a que un suelo en óptimas condiciones garantizará un rendimiento ideal de los cultivos instalados en él. El efecto de la conservación de los suelos a menudo no genera resultados en corto tiempo debido a que la acción de los microorganismos con la materia orgánica requiere de tiempos largos, sin embargo a largo plazo se reflejan los resultados como mantenimiento de la fertilidad, minimización de la contaminación y la erosión, entre otras que se relacionan a continuación: 
     p.mb-3.text-center Haz clic sobre cada uno de los elementos y recuerda los beneficios de la conservación del suelo: 
 
     .row.grd--white-lightyellow-white
@@ -165,26 +166,20 @@
             figure
               img.img-t.mx-auto(src='@/assets/curso/temas/tema3/img31.svg', alt='Texto que describa la imagen')
 
-          .tarjeta.p-3.px-4.shadow(x="50%" y="24%" numero="")
-            p.m-0 Las zanjas, trinchos y las barreras vivas son mecanismos utilizados para diferentes fines, pero todos relacionados con la agricultura y producción pecuaria, los cuales son instalados de acuerdo con la necesidad y un fin particular.
-
           .tarjeta.p-3.px-4.shadow(x="59.4%" y="41.4%" numero="")
-            p.m-0 Reducción en la Erosión: La intervención continua de los suelos provocan desprendimiento de los mismos generando erosión.
+            p.m-0 Reducción en la erosión: la intervención continua de los suelos provocan desprendimiento de los mismos generando erosión.
           
           .tarjeta.p-3.px-4.shadow(x="58.8%" y="59%" numero="")
-            p.m-0 Promueve la infiltración de agua: La siembra directa reduce la evapotranspiración y la compactación de los suelos, aportando a la circulación de agua. 
+            p.m-0 Promueve la infiltración de agua: la siembra directa reduce la evapotranspiración y la compactación de los suelos, aportando a la circulación de agua. 
 
           .tarjeta.p-3.px-4.shadow(x="50%" y="76.8%" numero="")
-            p.m-0 Las fuentes de agua deben ser limpias, ya que se ha comprobado que en ocasiones pueden diseminar organismos patógenos, Aunque la calidad inicial de la fruta no puede ser mejorada aplicando tecnologías poscosecha, la aplicación de sistemas adecuados para su conservación si permite mantener la calidad de la cosecha por espacios largos.
-
-          .tarjeta.p-3.px-4.shadow(x="42%" y="67%" numero="")
-            p.m-0 La utilización de cuartos de almacenamiento con refrigeración es indispensable para hacer más lento el proceso de deterioro de los productos, y limita el desarrollo de muchos de los patógenos poscosecha. Esto depende del producto agrícola que lo requiera.
+            p.m-0 Aumento de la calidad y la productividad del suelo: mantener los microorganismos presentes en la tierra en su entorno natural reduce la necesidad de aplicar agroquímicos a los suelos.
 
           .tarjeta.p-3.px-4.shadow(x="40.5%" y="53%" numero="")
-            p.m-0 Da alimento y refugio a la fauna: El crecimiento natural de la vegetación conlleva a la presencia de fauna. 
+            p.m-0 Da alimento y refugio a la fauna: el crecimiento natural de la vegetación conlleva a la presencia de fauna. 
 
           .tarjeta.p-3.px-4.shadow(x="42%" y="34%" numero="")
-            p.m-0 Reducción en la Erosión: La intervención continua de los suelos provocan desprendimiento de los mismos generando erosión. 
+            p.m-0 Aporte a la purificación de agua y aire: los suelos son filtros naturales y a la circulación de agua por estos minimiza la carga orgánica que es transformada por los microorganismos del suelo en nutrientes.
 
     .row.col-lg-10.mx-auto.mb-5
       .p-5.clr--lightgreen.mb-2(data-aos="fade-left")
@@ -232,7 +227,7 @@
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
       h2.d-inline-block.mb-0  Abonos verdes, materia orgánica y terrazas
 
-    p.mb-5 Otras formas de protección de los suelos es la implantación de abonos verdes, el uso de la materia orgánica para producción de abonos y la implementación de terrazas en terrenos topográficamente accidentados. A continuación, se detallan las formas de proteger sus suelos: v
+    p.mb-5 Otras formas de protección de los suelos es la implantación de abonos verdes, el uso de la materia orgánica para producción de abonos y la implementación de terrazas en terrenos topográficamente accidentados. A continuación, se detallan las formas de proteger sus suelos:
 
     .row.justify-content-center.mb-5.mx-auto
       .col-10
@@ -243,7 +238,7 @@
               .tarjeta.color-primario
                 .p-4
                   p.h5 MATERIA ORGÁNICA
-                  p Residuos orgánicos
+                  p Residuos orgánicos.
           .col-12.col-md-4.col-lg-4.mb-4(data-aos="fade-right")
             .tarjeta-avatar
               img(src='@/assets/curso/temas/tema3/img36.svg' alt='Imagen Decorativa')

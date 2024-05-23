@@ -86,7 +86,7 @@
           figure
             img.mb-4.img-t.m-auto(src='@/assets/curso/temas/tema6/img100.svg', alt='')
         .col-lg-10
-          p.mb-2 Las técnicas de diligenciamiento se resumen en la habilidad el técnico o el personal que realiza la actividad de acuerdo a los manuales de cada registro, el cual es elaborado por la parte directiva y socializado con el personal que realiza la actividad. 
+          p.mb-2 Las técnicas de diligenciamiento se resumen en la habilidad del técnico o el personal que realiza la actividad de acuerdo a los manuales de cada registro, el cual es elaborado por la parte directiva y socializado con el personal que realiza la actividad. 
           p.mb-2 La guía debe establecer los tiempos de diligenciamiento, así como la información relevante que se debe registrar y el paso a paso de la actividad. Es la guía la que define los criterios a tener en cuenta para que el personal realice la observación y lleve a cabo el registro. 
           p.mb-2 Es importante tener en cuenta el programa que se usa para el registro de la información, ya que este debe ser compatible con el sistema operativo que maneja la empresa.
       

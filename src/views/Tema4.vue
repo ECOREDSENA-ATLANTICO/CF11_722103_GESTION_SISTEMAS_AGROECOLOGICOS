@@ -40,26 +40,26 @@
           img(src='@/assets/curso/temas/tema4/img40.svg' alt='Imagen Decorativa')
           .tarjeta.clr--greengray
             .p-4
-              p Reducción de los costos de producción y preservación de los recursos naturales que se encuentran en la finca
+              p Reducción de los costos de producción y preservación de los recursos naturales que se encuentran en la finca.
       .col-12.col-md-3.col-lg-3.mb-4(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema4/img41.svg' alt='Imagen Decorativa')
           .tarjeta.clr--greengray
             .p-4
-              p Reutilización de los residuos orgánicos producto de los procesos agropecuarios generados insitu
+              p Reutilización de los residuos orgánicos producto de los procesos agropecuarios generados <i>in situ</i>.
       .col-12.col-md-3.col-lg-3.mb-4(data-aos="fade-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema4/img42.svg' alt='Imagen Decorativa')
           .tarjeta.clr--greengray
             .p-4
-              p Disminución del impacto ambiental negativo ocasionado por la agricultura industrial sobre el medio ambiente y la salud humana
+              p Disminución del impacto ambiental negativo ocasionado por la agricultura industrial sobre el medio ambiente y la salud humana.
 
       .col-12.col-md-3.col-lg-3.mb-4(data-aos="fade-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema4/img38.svg' alt='Imagen Decorativa')
           .tarjeta.clr--greengray
             .p-4
-              p Fortalecimiento de la economía de la granja
+              p Fortalecimiento de la economía de la granja.
   
     figure.mb-4
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
@@ -74,7 +74,7 @@
             figure
               img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img44.png', alt='')
           .col-lg-8
-            p Lo primero que se debe tener en cuenta es que el sitio debe estar ventilado, es decir el lugar debe contar con un flujo constante de viento para evitar la acumulación de gases y de fuertes olores. 
+            p Lo primero que se debe tener en cuenta es que el sitio debe estar ventilado, es decir, el lugar debe contar con un flujo constante de viento para evitar la acumulación de gases y de fuertes olores. 
       
       .p-4.clr--lightorange.mb-2(data-aos="fade-right")
         .row.align-items-center
@@ -82,7 +82,7 @@
             figure
               img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img45.png', alt='')
           .col-lg-8
-            p El sitio debe estar alejado de las residencias de los colaboradores y preferiblemente en un sector rural que no afecte a la comunidad aledaña
+            p El sitio debe estar alejado de las residencias de los colaboradores y preferiblemente en un sector rural que no afecte a la comunidad aledaña.
       .p-4.clr--lightgray.mb-2(data-aos="fade-left")
         .row.align-items-center
           .col-lg-4
@@ -107,13 +107,45 @@
           .col-lg-8
             p Preferiblemente realizar la instalación en suelo firme y plano.
 
-      .p-4.clr--greengray.mb-2(data-aos="fade-right")
+      .p-4.clr--lightorange.mb-2(data-aos="fade-right")
         .row.align-items-center
           .col-lg-4
             figure
               img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img49.png', alt='')
           .col-lg-8
             p Dotar de cobertura superior.
+      
+      .p-4.clr--lightgray.mb-2(data-aos="fade-left")
+        .row.align-items-center
+          .col-lg-4
+            figure
+              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img106.png', alt='')
+          .col-lg-8
+            p Realizar la implementación de una barrera viva en los alrededores de la biofábrica.
+            
+      .p-4.clr--lightgreen.mb-2(data-aos="fade-right")
+        .row.align-items-center
+          .col-lg-4
+            figure
+              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img107.png', alt='')
+          .col-lg-8
+            p El lugar debe ser de fácil acceso tanto para el ingreso de las materias primas y la salida de los productos finales.
+            
+      .p-4.clr--greengray.mb-2(data-aos="fade-left")
+        .row.align-items-center
+          .col-lg-4
+            figure
+              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img108.png', alt='')
+          .col-lg-8
+            p Realizar las actividades pertinentes para la no acumulación de gases.
+            
+      .p-4.clr--lightorange.mb-2(data-aos="fade-right")
+        .row.align-items-center
+          .col-lg-4
+            figure
+              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img109.png', alt='')
+          .col-lg-8
+            p Garantizar la presencia de los microorganismos para la descomposición de la materia orgánica (en la lombricultura garantizar la cantidad mínima de lombrices).
 
     figure.mb-4
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
@@ -131,7 +163,7 @@
       
     figure.mb-4
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
-      h2.d-inline-block.mb-0 Bioabonos orgánicos
+      h2.d-inline-block.mb-0 Etapas de preparación de bioabonos
 
     p.mb-4 La preparación de los bioabonos de acuerdo a lo dispuesto por Ramos Agüero, D., & Terry Alfonso, E. (2014) está marcada por tres pasos fundamentales (ver figura 4):
     
@@ -168,33 +200,33 @@
             figure
               img.img-t.mx-auto(src='@/assets/curso/temas/tema4/img58.svg', alt='Texto que describa la imagen')
 
-          .tarjeta.p-3.px-4.shadow(x="24.5%" y="33.4%" numero="")
-            p.m-0 este es el ingrediente que nunca debe faltar en la formulación de este abono orgánico, provee los microorganismos necesarios para la transformación de los desechos.
+          .tarjeta.p-3.px-4.shadow(x="24.9%" y="33.9%" numero="")
+            p.m-0 ElementInternalsste es el ingrediente que nunca debe faltar en la formulación de este abono orgánico, provee los microorganismos necesarios para la transformación de los desechos.
 
           .tarjeta.p-3.px-4.shadow(x="41.6%" y="33.4%" numero="")
-            p.m-0 son las fuentes principales de nutrimentos como el nitrógeno, fósforo, potasio, calcio y micro nutrimentos.
+            p.m-0 Son las fuentes principales de nutrimentos como el nitrógeno, fósforo, potasio, calcio y micro nutrimentos.
           
           .tarjeta.p-3.px-4.shadow(x="58.7%" y="33.4%" numero="")
-            p.m-0 proveen altas cantidades de potasio, esta puede ser obtenida de los fogones o estufas caseras que funcionan con leña. 
+            p.m-0 Proveen altas cantidades de potasio, esta puede ser obtenida de los fogones o estufas caseras que funcionan con leña. 
 
           .tarjeta.p-3.px-4.shadow(x="75.8%" y="33.4%" numero="")
-            p.m-0 se emplea como enmienda para neutralizar la acidez de los estiércoles y materiales verdes que se usan y constituye una fuente de calcio y magnesio.
+            p.m-0 Se emplea como enmienda para neutralizar la acidez de los estiércoles y materiales verdes que se usan y constituye una fuente de calcio y magnesio.
 
           .tarjeta.p-3.px-4.shadow(x="33.5%" y="85.8%" numero="")
-            p.m-0 sirve como fuente de energía para los microorganismos que descomponen los materiales orgánicos. Además provee cierta cantidad de boro, calcio y otros nutrimentos.
+            p.m-0 Sirve como fuente de energía para los microorganismos que descomponen los materiales orgánicos. Además provee cierta cantidad de boro, calcio y otros nutrimentos.
 
           .tarjeta.p-3.px-4.shadow(x="50.3%" y="85.8%" numero="")
-            p.m-0 constituyen una fuente rica de nutrimentos para los microorganismos.
+            p.m-0 Constituyen una fuente rica de nutrimentos para los microorganismos.
 
           .tarjeta.p-3.px-4.shadow(x="67.3%" y="85.8%" numero="")
-            p.m-0 es un derivado de la leche, es un fuerte esterilizante y supresor de microorganismos nocivos. Además posee propiedades hormonales y fungistáticas, es buen descomponedor de materia orgánica.
+            p.m-0 Es un derivado de la leche, es un fuerte esterilizante y supresor de microorganismos nocivos. Además posee propiedades hormonales y fungistáticas, es buen descomponedor de materia orgánica.
 
       
     figure.mb-4
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
       h2.d-inline-block.mb-0 Materiales e insumos
 
-    p.mb-4 La construcción de la biofábrica dependerá de la cantidad de recursos con los que se cuente y a la escala que se desea implementar. Generalmente la instalación de un biofábrica se realiza con materiales de fácil obtención económicos como la guadua, madera, zinc, eternit, plástico y mallas para control de vectores, y los insumos para la producción dependerá de cada cultivo en particular y las cantidades de materia prima de la que se pueda disponer 
+    p.mb-4 La construcción de la biofábrica dependerá de la cantidad de recursos con los que se cuente y a la escala que se desea implementar. Generalmente la instalación de una biofábrica se realiza con materiales de fácil obtención económica como la guadua, madera, zinc, eternit, plástico y mallas para control de vectores, y los insumos para la producción dependerá de cada cultivo en particular y las cantidades de materia prima de la que se pueda disponer 
 
     
     .col-10.col-md-8.col-lg-8.mx-auto.mb-4(data-aos="fade-left")

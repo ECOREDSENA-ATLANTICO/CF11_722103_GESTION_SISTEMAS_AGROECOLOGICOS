@@ -96,6 +96,11 @@ export default {
         nombreRuta: 'referencias',
       },
       {
+        icono: 'fas fa-download',
+        titulo: 'Descargar material',
+        download: 'downloads/material.zip',
+      },
+      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
@@ -142,17 +147,17 @@ export default {
     {
       termino: 'Presión artesiana',
       significado:
-        'se denomina presión artesiana a la presión obtenida de la diferencia de nivel de la capa freática (cimentación profunda por excavación) de un pozo artesiano. Es decir que cuando se perfora una cuenca artesiana, el agua, bajo presión, sube y este tipo de conducto, en el que el líquido sube a presión, se denominaría pozo artesiano',
+        'se denomina presión artesiana a la presión obtenida de la diferencia de nivel de la capa freática (cimentación profunda por excavación) de un pozo artesiano. Es decir que cuando se perfora una cuenca artesiana, el agua, bajo presión, sube y este tipo de conducto, en el que el líquido sube a presión, se denominaría pozo artesiano.',
     },
     {
       termino: 'Trinchos',
       significado:
-        'muro pequeño transversal que se construye en una quebrada o arroyo para provocar sedimentación aguas arriba y en otros casos cortar la pendiente del terreno',
+        'muro pequeño transversal que se construye en una quebrada o arroyo para provocar sedimentación aguas arriba y en otros casos cortar la pendiente del terreno.',
     },
     {
       termino: 'Zanjas',
       significado:
-        'excavación larga y estrecha que se hace en la tierra para echar los cimientos, conducir las aguas, defender los sembrados o cosas semejantes',
+        'excavación larga y estrecha que se hace en la tierra para echar los cimientos, conducir las aguas, defender los sembrados o cosas semejantes.',
     },
   ],
   referencias: [
@@ -164,7 +169,7 @@ export default {
     },
     {
       referencia:
-        'Gagliano, E. (2019). Lombricompuesto, una alternativa para abonar. Instituto Nacional de Tecnología Agropecuaria',
+        'Gagliano, E. (2019). Lombricompuesto, una alternativa para abonar. Instituto Nacional de Tecnología Agropecuaria.',
       link:
         'https://inta.gob.ar/documentos/lombricompuesto-una-alternativa-para-abonar',
     },
@@ -176,13 +181,13 @@ export default {
     },
     {
       referencia:
-        'Ramos Agüero, D., & Terry Alfonso, E. (2014). Generalidades de los abonos orgánicos: Importancia del Bocashi como alternativa nutricional para suelos y plantas. Cultivos Tropicales, 35(4), 52–59',
+        'Ramos Agüero, D., & Terry Alfonso, E. (2014). Generalidades de los abonos orgánicos: Importancia del Bocashi como alternativa nutricional para suelos y plantas. Cultivos Tropicales, 35(4), 52–59.',
       link:
         '. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0258-59362014000400007',
     },
     {
       referencia:
-        'Rivera, P. (2005). Construcción de Trinchos Vivos para Conducción de Aguas de Escorrentía en Zonas Tropicales de Ladera',
+        'Rivera, P. (2005). Construcción de Trinchos Vivos para Conducción de Aguas de Escorrentía en Zonas Tropicales de Ladera.',
       link: 'https://www.oocities.org/biotropico_andino/cap12.pdf',
     },
   ],
