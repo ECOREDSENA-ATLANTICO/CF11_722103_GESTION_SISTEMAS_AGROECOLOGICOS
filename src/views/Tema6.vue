@@ -30,7 +30,7 @@
       .tarjeta.clr--lightgray.p-4.p-md-5.mb-5
         .row.justify-content-around.align-items-center
           .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
-            img(src="@/assets/curso/temas/tema6/img101.png" alt='')
+            img(src="@/assets/curso/temas/tema6/img101.png" alt='Imagen Decorativa')
 
           .col-md.col-lg-6
             h3 Normativa sanitaria y ambiental
@@ -42,24 +42,24 @@
 
 
       figure.mb-4
-        img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+        img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
         h2.d-inline-block.mb-0 Tipos de formatos de registro
 
 
       .row.mb-5.align-items-center
         .col-lg-2
           figure
-            img.mb-4z.img-t.m-auto(src='@/assets/curso/temas/tema6/img97.svg', alt='')
+            img.mb-4z.img-t.m-auto(src='@/assets/curso/temas/tema6/img97.svg', alt='Imagen Decorativa')
         .col-lg-10
           p.mb-2 Los registros son instrumentos que soportan una acción los cuales son consultados para realizar las evaluaciones o controles a las actividades realizadas. 
           p.mb-0 La información resultante de cada punto de intervención en campo debe ser registrada en los formatos que hayan sido elaborados por la parte administrativa para que se lleve un control de las acciones y los tiempos de cada actividad, de esta manera se pueden establecer los indicadores de cumplimiento y de efectividad que sean necesarios para evaluar la efectividad el proceso. 
       
       p.text-center.mb-4 Los tipos de formatos se pueden definir de dos tipos, los abiertos y los cerrados:
 
-      .row.justify-content-center.mb-5
+      .row.justify-content-center.mb-5.formato-registro
         .col-10.col-md-7.col-lg-5.mb-5.mb-lg-0(data-aos="fade-right")
           .tarjeta-icon
-            img.img-t.mx-auto(src='@/assets/curso/temas/tema6/img98.svg' alt='AvatarTop')
+            img.img-t.mx-auto(src='@/assets/curso/temas/tema6/img98.svg' alt='Imagen Decorativa')
             .clr--acccent-color.text-center.p-4.pt-5
               h5.mb-0 Abiertos
             .clr--lightorange.text-center.p-3
@@ -68,7 +68,7 @@
        
         .col-10.col-md-7.col-lg-5.mb-5.mb-lg-0(data-aos="fade-left")
           .tarjeta-icon
-            img.img-t.mx-auto(src='@/assets/curso/temas/tema6/img99.svg' alt='AvatarTop')
+            img.img-t.mx-auto(src='@/assets/curso/temas/tema6/img99.svg' alt='Imagen Decorativa')
             .clr--green.text-center.p-4.pt-5
               h5.mb-0 Cerrados
             .clr--lightgreen2.text-center.p-3
@@ -77,14 +77,14 @@
       p.text-center.mb-5 Es válido mencionar que esta información puede ser requerida por los entes de control y la empresa estará en obligación de suministrarla. 
 
       figure.mb-4
-        img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+        img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
         h2.d-inline-block.mb-0 Técnicas de diligenciamiento
 
 
       .row.mb-5.align-items-center
         .col-lg-2
           figure
-            img.mb-4.img-t.m-auto(src='@/assets/curso/temas/tema6/img100.svg', alt='')
+            img.mb-4.img-t.m-auto(src='@/assets/curso/temas/tema6/img100.svg', alt='Imagen Decorativa')
         .col-lg-10
           p.mb-2 Las técnicas de diligenciamiento se resumen en la habilidad del técnico o el personal que realiza la actividad de acuerdo a los manuales de cada registro, el cual es elaborado por la parte directiva y socializado con el personal que realiza la actividad. 
           p.mb-2 La guía debe establecer los tiempos de diligenciamiento, así como la información relevante que se debe registrar y el paso a paso de la actividad. Es la guía la que define los criterios a tener en cuenta para que el personal realice la observación y lleve a cabo el registro. 

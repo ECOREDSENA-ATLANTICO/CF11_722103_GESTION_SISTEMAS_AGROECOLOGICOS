@@ -14,13 +14,13 @@
           .row.align-items-center
             .col-lg-2
               figure
-                img.mb-4.img-t.m-auto(src='@/assets/curso/temas/tema4/img38.svg', alt='')
+                img.mb-4.img-t.m-auto(src='@/assets/curso/temas/tema4/img38.svg', alt='Imagen Decorativa')
             .col-lg-10
               p.mb-0 Las biofábricas pueden definirse como establecimientos que hacen prácticas de agricultura orgánica/ecológica, que utilizan materiales dispuestos en una parcela, llamados en ocasiones desperdicios o desechos como: estiércol, arvenses, pastos, cenizas, suero de leche, rastrojos, hojarasca de monte, nejayote, plantas alelopáticas, entre otros más, para transformarlos y producir sustancias orgánicas, que conllevan a la obtención de productos limpios para ser aplicados en los suelos y plantas.
       
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/temas/tema4/img39.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/temas/tema4/img39.png', alt='Imagen Decorativa')
     
     
     figure.mb-5
@@ -62,7 +62,7 @@
               p Fortalecimiento de la economía de la granja.
   
     figure.mb-4
-      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.d-inline-block.mb-0 Especificaciones del sitio de preparación
 
     p.mb-5 Definir el lugar donde se va a implementar la biofábrica o el sitio destinado para la producción de los abonos orgánicos en la finca es un tema que debe ser pensado con cabeza fría, debido a que estas instalaciones a menudo producen incomodidades a los residentes del sector por la emisión de olores y presencia de vectores por la misma razón. A continuación, se detallan algunas condiciones que debe tener en cuenta: 
@@ -72,7 +72,7 @@
         .row.align-items-center
           .col-lg-4
             figure
-              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img44.png', alt='')
+              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img44.png', alt='Imagen Decorativa')
           .col-lg-8
             p Lo primero que se debe tener en cuenta es que el sitio debe estar ventilado, es decir, el lugar debe contar con un flujo constante de viento para evitar la acumulación de gases y de fuertes olores. 
       
@@ -80,14 +80,14 @@
         .row.align-items-center
           .col-lg-4
             figure
-              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img45.png', alt='')
+              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img45.png', alt='Imagen Decorativa')
           .col-lg-8
             p El sitio debe estar alejado de las residencias de los colaboradores y preferiblemente en un sector rural que no afecte a la comunidad aledaña.
       .p-4.clr--lightgray.mb-2(data-aos="fade-left")
         .row.align-items-center
           .col-lg-4
             figure
-              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img46.png', alt='')
+              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img46.png', alt='Imagen Decorativa')
           .col-lg-8
             p Contar con un cerramiento con mallas para evitar la entrada de vectores y roedores.
             
@@ -95,7 +95,7 @@
         .row.align-items-center
           .col-lg-4
             figure
-              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img47.png', alt='')
+              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img47.png', alt='Imagen Decorativa')
           .col-lg-8
             p Establecer la infraestructura alejado de fuentes hídricas.
             
@@ -103,7 +103,7 @@
         .row.align-items-center
           .col-lg-4
             figure
-              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img48.png', alt='')
+              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img48.png', alt='Imagen Decorativa')
           .col-lg-8
             p Preferiblemente realizar la instalación en suelo firme y plano.
 
@@ -111,7 +111,7 @@
         .row.align-items-center
           .col-lg-4
             figure
-              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img49.png', alt='')
+              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img49.png', alt='Imagen Decorativa')
           .col-lg-8
             p Dotar de cobertura superior.
       
@@ -119,7 +119,7 @@
         .row.align-items-center
           .col-lg-4
             figure
-              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img106.png', alt='')
+              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img106.png', alt='Imagen Decorativa')
           .col-lg-8
             p Realizar la implementación de una barrera viva en los alrededores de la biofábrica.
             
@@ -127,7 +127,7 @@
         .row.align-items-center
           .col-lg-4
             figure
-              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img107.png', alt='')
+              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img107.png', alt='Imagen Decorativa')
           .col-lg-8
             p El lugar debe ser de fácil acceso tanto para el ingreso de las materias primas y la salida de los productos finales.
             
@@ -135,7 +135,7 @@
         .row.align-items-center
           .col-lg-4
             figure
-              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img108.png', alt='')
+              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img108.png', alt='Imagen Decorativa')
           .col-lg-8
             p Realizar las actividades pertinentes para la no acumulación de gases.
             
@@ -143,12 +143,12 @@
         .row.align-items-center
           .col-lg-4
             figure
-              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img109.png', alt='')
+              img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img109.png', alt='Imagen Decorativa')
           .col-lg-8
             p Garantizar la presencia de los microorganismos para la descomposición de la materia orgánica (en la lombricultura garantizar la cantidad mínima de lombrices).
 
     figure.mb-4
-      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.d-inline-block.mb-0 Bioabonos orgánicos
 
     p.mb-4 Los bioabonos son fertilizantes orgánicos - minerales que contiene elementos nutrientes como N, P, K, Ca, Mg S + elementos menores; también pueden tener microorganismos como hongos Micorrízicos, bacterias fijadoras de nitrógeno y agentes bioquímicos fisiológicamente activos como enzimas, aminoácidos, ácidos húmicos y aminoácidos entre otros, que pueden acelerar la toma de los nutrientes por las plantas y/o absorberlos para ser metabolizados. 
@@ -157,7 +157,7 @@
       .row.align-items-center
         .col-lg-2
           figure
-            img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img54.svg', alt='')
+            img.mb-2.img-t.m-auto(src='@/assets/curso/temas/tema4/img54.svg', alt='Imagen Decorativa')
         .col-lg-10
           p.mb-0 El uso de los bioabonos surge como una alternativa para desarrollar una agricultura más sostenida en el largo plazo, en razón al acelerado deterioro de los suelos intervenidos, por la alta y prolongada fertilización, con productos de síntesis química como también herbicidas y otros de uso agropecuarios, y la complementariedad con los sistemas principales de producción, estimulando la generación de agroindustrias auxiliares de bioconversión.
       
@@ -173,10 +173,12 @@
 
     .row
       .col-lg-12
+        figure.d-block.d-lg-none
+          img.img-t.mx-auto.pb-5(src='@/assets/curso/temas/tema4/img55m.svg', alt='Muestra el componente formativo las etapas de preparación biobanco: Recolección de la materia prima para la producción de abono (cama de materia orgánica en granjas y corrales, residuos de comida, heces de animales pecuarios, etc.). Proceso de fermentación, maduración y fabricación (esta fase dependerá del método elegido para la producción de bioabono). Traslado del bioabono a campo o a sitios de comercialización.')
         ImagenInfografica.color-acento-botones.mb-5.d-none.d-lg-block
           template(v-slot:imagen)
             figure
-              img.img-t.mx-auto(src='@/assets/curso/temas/tema4/img55.svg', alt='Texto que describa la imagen')
+              img.img-t.mx-auto(src='@/assets/curso/temas/tema4/img55.svg', alt='Muestra el componente formativo las etapas de preparación biobanco: Recolección de la materia prima para la producción de abono (cama de materia orgánica en granjas y corrales, residuos de comida, heces de animales pecuarios, etc.). Proceso de fermentación, maduración y fabricación (esta fase dependerá del método elegido para la producción de bioabono). Traslado del bioabono a campo o a sitios de comercialización.')
 
           .tarjeta.p-3.px-4.shadow(y="39.5%" x="26.1%" numero="")
             p.m-0 Recolección de la materia prima para la producción de abono (cama de materia orgánica en granjas y corrales, residuos de comida, heces de animales pecuarios, etc.).
@@ -195,10 +197,12 @@
 
     .row
       .col-lg-12
+        figure.d-block.d-lg-none
+          img.img-t.mx-auto.pb-5(src='@/assets/curso/temas/tema4/img111.svg', alt='Imagen Decorativa')
         ImagenInfografica.color-acento-botones.mb-5.d-none.d-lg-block
           template(v-slot:imagen)
             figure
-              img.img-t.mx-auto(src='@/assets/curso/temas/tema4/img58.svg', alt='Texto que describa la imagen')
+              img.img-t.mx-auto(src='@/assets/curso/temas/tema4/img58.svg', alt='Imagen Decorativa')
 
           .tarjeta.p-3.px-4.shadow(x="24.9%" y="33.9%" numero="")
             p.m-0 ElementInternalsste es el ingrediente que nunca debe faltar en la formulación de este abono orgánico, provee los microorganismos necesarios para la transformación de los desechos.
@@ -223,7 +227,7 @@
 
       
     figure.mb-4
-      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.d-inline-block.mb-0 Materiales e insumos
 
     p.mb-4 La construcción de la biofábrica dependerá de la cantidad de recursos con los que se cuente y a la escala que se desea implementar. Generalmente la instalación de una biofábrica se realiza con materiales de fácil obtención económica como la guadua, madera, zinc, eternit, plástico y mallas para control de vectores, y los insumos para la producción dependerá de cada cultivo en particular y las cantidades de materia prima de la que se pueda disponer 
@@ -236,7 +240,7 @@
     .tarjeta.grd--green-lightgreen.p-3
       .row.justify-content-around.align-items-center
         .col-auto
-          img(src="@/assets/curso/temas/tema4/img59.svg").img65
+          img(src="@/assets/curso/temas/tema4/img59.svg", alt='Imagen Decorativa').img65
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0

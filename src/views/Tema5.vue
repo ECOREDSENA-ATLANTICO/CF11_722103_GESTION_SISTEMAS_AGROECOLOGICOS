@@ -18,7 +18,7 @@
 
   
     figure.mb-4
-      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.d-inline-block.mb-0.align-middle Concepto y proceso de lombricompuesto
     
     p.mb-5 El lombricompuesto en un abono natural muy rico en nutrientes y es obtenido bajo la acción de la lombriz roja californiana que a partir de los restos húmedos y en descomposición de materia orgánica, realiza un proceso de digestión que tiene como resultado el lombricompuesto.
@@ -30,7 +30,7 @@
     .row.mb-4
       .col-lg-10.mx-auto.text-center
         figure.mb-4
-          img.img-t.d-inline-block(src='@/assets/curso/temas/tema5/img61.png', alt='')
+          img.img-t.d-inline-block(src='@/assets/curso/temas/tema5/img61.png', alt='Muestra lo beneficios de lombricompuesto: Aumenta la cantidad de nutrientes. Beneficia el suelo con millones de microoganismos. Mejora la aireación al modificar la estructura del suelo. Mejora y recupera los suelos para cultivo')
 
     figure.mb-4
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
@@ -42,7 +42,7 @@
       .p-3.clr--lightgreen.mb-2(data-aos="fade-left")
         .row.align-items-center.position-relative.box_leaves
           figure
-            img.img-t.top-left(src='@/assets/curso/temas/tema2/img20.svg', alt='')  
+            img.img-t.top-left(src='@/assets/curso/temas/tema2/img20.svg', alt='Imagen Decorativa')  
           .col-lg-1 
           .col-lg-7.pt-4.pt-md-0
             p La falta de humedad trae problemas en la alimentación. Al no poseer dientes las lombrices chupan los alimentos, operación que no es posible con la tierra seca. Por otro lado, el exceso de humedad dificulta la respiración, que es cutánea.
@@ -51,13 +51,13 @@
 
 
           .col-lg-4
-            img.mb-7.img-t.m-auto(src='@/assets/curso/temas/tema5/img62.png', alt='')
+            img.mb-7.img-t.m-auto(src='@/assets/curso/temas/tema5/img62.png', alt='Imagen Decorativa')
           
           figure
-            img.img-t.bottom-right(src='@/assets/curso/temas/tema2/img21.svg', alt='')
+            img.img-t.bottom-right(src='@/assets/curso/temas/tema2/img21.svg', alt='Imagen Decorativa')
 
     figure.mb-4
-      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.d-inline-block.mb-0.align-middle Herramientas para drenajes
     
     p.mb-5 La construcción de los drenajes es relativamente sencilla, solo se necesita el personal para la obra manual o una retroexcavadora en caso de necesitarla. 
@@ -66,21 +66,21 @@
       .p-3.clr--lightgreen.mb-2(data-aos="fade-left")
         .row.align-items-center.position-relative.box_leaves
           figure
-            img.img-t.top-left(src='@/assets/curso/temas/tema2/img20.svg', alt='')  
+            img.img-t.top-left(src='@/assets/curso/temas/tema2/img20.svg', alt='Imagen Decorativa')  
           .col-lg-1 
           .col-lg-7.pt-4.pt-md-0
             p Es importante mencionar que las cantidades de excavación, la longitud, la pendiente y otros factores deben ser establecidos con anterioridad y ser verificados en campo con topografía para que se garantice el flujo constante de agua y así, evitar estancamientos que pueden provocar la proliferación de vectores y plagas. 
             p.mb-0 Para el mantenimiento de los drenajes se hacen necesarias herramientas menores en unos y un sistema de transporte del material que es evacuado de acuerdo a su cantidad. 
 
           .col-lg-4
-            img.mb-7.img-t.m-auto(src='@/assets/curso/temas/tema5/img63.png', alt='')
+            img.mb-7.img-t.m-auto(src='@/assets/curso/temas/tema5/img63.png', alt='Imagen Decorativa')
           
           figure
-            img.img-t.bottom-right(src='@/assets/curso/temas/tema2/img21.svg', alt='')
+            img.img-t.bottom-right(src='@/assets/curso/temas/tema2/img21.svg', alt='Imagen Decorativa')
 
 
     figure.mb-4
-      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.d-inline-block.mb-0.align-middle Concepto y tipos de biofertilizantes
     
     p.mb-5 Los biofertilizantes son insumos que no contaminan y enriquecen la capacidad productiva del suelo, además de que son muy económicos y en ningún momento van a degradar la capacidad productiva.
@@ -89,14 +89,14 @@
       .p-3.clr--lightgreen.mb-2(data-aos="fade-left")
         .row.align-items-center.position-relative.box_leaves
           figure
-            img.img-t.top-left(src='@/assets/curso/temas/tema2/img20.svg', alt='')  
+            img.img-t.top-left(src='@/assets/curso/temas/tema2/img20.svg', alt='Imagen Decorativa')  
           .col-lg-1 
           .col-lg-7.pt-4.pt-md-0
             p.mb-0  La producción comercial de biofertilizantes que permitan su fácil disponibilidad en el mercado podría cambiar las condiciones de producción del sector agrícola. Estos son una gran opción como sustitutos de los fertilizantes y pesticidas químicos o industriales. Un biofertilizante es una sustancia que contiene microorganismos vivos, que cuando se aplica a semillas, plantas o suelo, promueve el crecimiento al aumentar el suministro o la disponibilidad de nutrientes primarios para la planta, es un producto de innovación en la biofábrica, ayuda a mejorar el rendimiento en la producción de cultivos a la vez que protege o mantiene y regenera las condiciones ambientales (ver figura 6).
           .col-lg-4
-            img.mb-7.img-t.m-auto(src='@/assets/curso/temas/tema5/img64.png', alt='') 
+            img.mb-7.img-t.m-auto(src='@/assets/curso/temas/tema5/img64.png', alt='Imagen Decorativa') 
           figure
-            img.img-t.bottom-right(src='@/assets/curso/temas/tema2/img21.svg', alt='')
+            img.img-t.bottom-right(src='@/assets/curso/temas/tema2/img21.svg', alt='Imagen Decorativa')
     
     .titulo-sexto.color-acento-contenido.col-md-5.mx-auto(data-aos="fade-right")
       h5 Figura 6.
@@ -105,18 +105,18 @@
     .row
       .col-lg-10.mx-auto.text-center
         figure.mb-5
-          img.img-t.d-inline-block(src='@/assets/curso/temas/tema5/img65.svg', alt='')
+          img.img-t.d-inline-block(src='@/assets/curso/temas/tema5/img65.svg', alt='Muestra el componente formativo los ipos de biofertilizantes: Tipos de biofertilizantes. Fijadores de Nitrógeno . Solubilizadores de Fósforo. Captadores de Fósforo. Promotores de Crecimiento Vegetal')
     
 
     figure.mb-4
-      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.d-inline-block.mb-0.align-middle Concepto y tipo de inoculantes biológicos y variables de control
 
     .cajon.p-4.mb-5.clr--lightgreen
       .row.align-items-center
         .col-lg-2
           figure
-            img.mb-4.img-t.m-auto(src='@/assets/curso/temas/tema5/img66.svg', alt='')
+            img.mb-4.img-t.m-auto(src='@/assets/curso/temas/tema5/img66.svg', alt='Imagen Decorativa')
         .col-lg-10
           p Un inoculante biológico es un producto elaborado a partir de una o más cepas de microorganismos benéficos o sus metabolitos que al aplicarse al suelo o a las semillas tienen un efecto positivo sobre la nutrición, sanidad, rendimiento y adaptación en cultivos de importancia económica. 
           p.mb-0 El Instituto Colombiano Agropecuario ICA para el 2015 tenía registrado 55 inoculantes biológicos relacionados por su actividad biológica los cuales de describen a continuación (ver figura 7):
@@ -129,7 +129,7 @@
     .row
       .col-lg-10.mx-auto.text-center
         figure.mb-4
-          img.img-t.d-inline-block(src='@/assets/curso/temas/tema5/img67.svg', alt='')
+          img.img-t.d-inline-block(src='@/assets/curso/temas/tema5/img67.svg', alt='Muestra el componente formativo la elación de inoculantes biológicos de acuerdo a su actividad biológica: Fijación biológica de nitrógeno (18). Solubilización de Fósforo (7). Promoción de crecimiento (2). Inoculante Biológico de Suelo (8). Nutrición Vegetal (4). Otros (16)')
 
   
 </template>

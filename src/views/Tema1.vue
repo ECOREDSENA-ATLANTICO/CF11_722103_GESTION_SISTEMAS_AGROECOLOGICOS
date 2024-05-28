@@ -17,7 +17,7 @@
         p Para realizar la preparación del suelo se debe tener ya definido el cultivo o la actividad pecuaria que se desea implementar en el terreno, de esta manera se identificarán los recursos y las necesidades de nutrientes para aumentar la efectividad en la producción. Para ello, es necesario realizar un estudio preliminar que será el punto de partida para la identificación de las necesidades de los suelos.
     
     figure.mb-4
-      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.d-inline-block.mb-0 Maquinaria, herramienta y equipos
     
     p.mb-5 Los equipos y herramientas agrícolas están destinados a facilitar las actividades de producción, algunos de estos instrumentos de trabajo son de uso manual como las palas, picas, azadón, etc., y otros de uso mecánico como el tractor, la cosechadora, el ahoyador, entre otros (ver figura 1).
@@ -44,7 +44,7 @@
 
 
     figure.mb-4
-      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.d-inline-block.mb-0 Operación y manejo de manuales técnicos 
     
     p.mb-4 Desde la planificación se deben elaborar los manuales de procesos y estos a su vez, deberán ser socializados con el personal encargado de las actividades agrícolas a desarrollar.  Estos manuales deben ser fáciles de interpretar y deben tener la información necesaria para que, en caso de una eventualidad, cualquier persona de la planta pueda desarrollar las actividades con calidad (ver figura 2).
@@ -55,7 +55,7 @@
     
     .row.col-md-10.mx-auto
         figure.mb-5
-          img(src="@/assets/curso/temas/tema1/img05.svg", alt="")
+          img(src="@/assets/curso/temas/tema1/img05.svg", alt='Muestra el componente formativo de los beneficios  de la implementación de un manual de procedimiento. Para desarrollar las actividades agrícolas con calidad se debe tener el siguiente procedimiento: Dejar por escrito procesos críticos. Facilitar la comunicación y la unificación de criterios. Mejorar y optimizar los procesos. Disminuir tiempos de formación / Capacitación. Eliminación de concentración de "yo sé"')
 
     .col-md-10.p-4.mb-5.clr--lightorange.mx-auto
       p.mb-0 Es importante introducir en los manuales un plano o ciclo de seguimiento para ser instalado en la ejecución del proceso en un lugar visible.
@@ -76,7 +76,7 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img06.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/img06.png', alt='Imagen Decorativa')
 
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
@@ -86,7 +86,7 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img07.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/img07.png', alt='Imagen Decorativa')
         
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
@@ -96,7 +96,7 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img08.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/img08.png', alt='Imagen Decorativa')
 
         .row.align-items-center
           .col-md-6.mb-4.mb-md-0
@@ -106,11 +106,11 @@
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema1/img09.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/img09.png', alt='Imagen Decorativa')
 
 
     figure.mb-4
-      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
+      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.d-inline-block.mb-0 Conservación
 
 
