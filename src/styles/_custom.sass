@@ -3,12 +3,7 @@
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
     top: 48%
-    left: 13%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 67%
-    right: 33%
+    left: 3%
 
 
 @keyframes float1
@@ -52,6 +47,8 @@
   margin-right: -50px
 
 ///// Colores de Fondos --------------------------------------
+.clr--white
+  background-color: #ffffff
 .clr--gris
   background-color: #f3f3f3
 .clr--pink
@@ -109,11 +106,11 @@
   background: linear-gradient(90deg, rgba(11,72,30,1) 0%, rgba(133,160,29,1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0b481e",endColorstr="#85a01d",GradientType=1);
 
-  .tabla-b
-  tr
-    background-color: #FFF
-    &:nth-child(even)
-      background-color: #F6F6F6
+.tabla-b
+tr
+  background-color: #FFF
+  &:nth-child(even)
+    background-color: #F6F6F6
 
 .anexo.cstm
   background-color: white
@@ -201,6 +198,16 @@
   @media (max-width: 1000px)
     display: none
 
+.right-bottom
+  position: absolute
+  bottom: 0
+  right: 0
+
+///// Bloque de Texto G
+.bloque-texto-g
+  p 
+    display: block
+
 ///// Bloque de Texto G Invertido --------------------------------------
 .bloque-texto-g.invertido
   justify-content: flex-start
@@ -239,11 +246,11 @@
   border: none
 
 .slyder-a__bullets__item--active
-  background-color: $color-primario !important
+  background-color: #ADCE32 !important
   border: none
 
 .slyder-a__bullets__item
-  background-color: #A9BDA4 
+  background-color: #D7E79C 
 
 ////// Number --------------------------------------
 .number
@@ -326,16 +333,16 @@
   background-color: #FFF !important
 
 
-///////// Box Leaves --------------------------------------
-.box_leaves 
-  .top-left
-    position: absolute;
-    left: -30px;
-    top: -60px;
-  .bottom-right
-    position: absolute;
-    bottom: -70px;
-    right: -30px;
+///////// Decorative Box --------------------------------------
+.decorative
+  .bottom-left
+    position: absolute
+    left: -30px
+    bottom: 70px
+  .top-right
+    position: absolute
+    top: 50px
+    right: -18px
 
 ///////// Card hover --------------------------------------
 .crd_hover_txt
@@ -492,3 +499,12 @@ h5.rounded_title
       .clr--lightorange, .clr--lightgreen2
         min-height: 195px
 
+.banner-tarjeta
+  .row
+    margin-top: -50px
+    @media (max-width: 768px)
+      margin-top: -10px
+
+.slyder-f__btn 
+  i 
+    font-size: 2rem
