@@ -17,7 +17,7 @@
         figure
           img.img-t.m-auto(src='@/assets/curso/temas/tema5/img60.png', alt='Imagen Decorativa')
   
-    figure.d-flex.align-items-center.mb-4
+    figure.d-flex.align-items-center.mb-4#t_5_1
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.mb-0.align-middle Concepto y proceso de lombricompuesto
     
@@ -35,7 +35,7 @@
         figure.d-none.d-lg-block
           img.img-t.d-inline-block(src='@/assets/curso/temas/tema5/img61.svg', alt='Muestra lo beneficios de lombricompuesto: Aumenta la cantidad de nutrientes. Beneficia el suelo con millones de microoganismos. Mejora la aireación al modificar la estructura del suelo. Mejora y recupera los suelos para cultivo')
 
-    figure.d-flex.align-items-center.mb-4
+    figure.d-flex.align-items-center.mb-4#t_5_2
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
       h2.mb-0.align-middle.align-middle Condiciones ambientales para el desarrollo
     
@@ -49,7 +49,7 @@
           p En relación a la temperatura se debe tener cuidado del calor y del frío intenso, siendo los valores óptimos 19-20º C. Siempre es recomendable cubrir los criaderos con una capa de paja o pasto, que además de proteger de las temperaturas extremas, ayuda a conservar la humedad.
           p.mb-0 El PH expresa el grado de acidez o alcalinidad de una sustancia. Para el caso de la cría de lombriz californiana en cautiverio el valor conveniente es que esté próximo a 7.
            
-    figure.d-flex.align-items-center.mb-4
+    figure.d-flex.align-items-center.mb-4#t_5_3
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.mb-0.align-middle Herramientas para drenajes
     
@@ -64,7 +64,7 @@
         p.mb-0 Para el mantenimiento de los drenajes se hacen necesarias herramientas menores en unos y un sistema de transporte del material que es evacuado de acuerdo a su cantidad. 
     
 
-    figure.d-flex.align-items-center.mb-4
+    figure.d-flex.align-items-center.mb-4#t_5_4
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.mb-0.align-middle Concepto y tipos de biofertilizantes
     
@@ -90,7 +90,7 @@
         figure.d-none.d-lg-block
           img.img-t.d-inline-block(src='@/assets/curso/temas/tema5/img65.svg', alt='Muestra el componente formativo los ipos de biofertilizantes: Tipos de biofertilizantes. Fijadores de Nitrógeno . Solubilizadores de Fósforo. Captadores de Fósforo. Promotores de Crecimiento Vegetal')
     
-    figure.d-flex.align-items-center.mb-4
+    figure.d-flex.align-items-center.mb-4#t_5_5
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.mb-0.align-middle Concepto y tipo de inoculantes biológicos y variables de control
       

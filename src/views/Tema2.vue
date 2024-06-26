@@ -66,7 +66,7 @@
   
         p.mb-5.col-md-10.mx-auto Para la solicitud del permiso, es necesario revisar el formato único nacional de concesión de aguas superficiales, como  la guía para la presentación de la solicitud ya que contiene la guía de diligenciamiento y los documentos anexos de la solicitud. 
 
-        figure.d-flex.align-items-center.mb-4
+        figure.d-flex.align-items-center.mb-4#t_2_1
           img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
           h2.mb-0 Drenajes
 
@@ -84,7 +84,7 @@
             p.mb-0 ● Influencia de la presión artesiana proveniente de acuíferos profundos en años de abundancia hídrica.
         
         
-        figure.d-flex.align-items-center.mb-4
+        figure.d-flex.align-items-center.mb-4#t_2_2
           img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
           h2.mb-0 Tipos e instrumentos
 
@@ -99,7 +99,7 @@
               figure
                 img.img-t.right-bottom.d-none.d-lg-block(src='@/assets/curso/temas/tema2/img22.png', alt='Imagen Decorativa')   
 
-        figure.d-flex.align-items-center.mb-4
+        figure.d-flex.align-items-center.mb-4#t_2_3
           img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
           h2.mb-0 Herramientas para drenajes
 
@@ -112,7 +112,7 @@
             figure
               img.img-t.m-auto(src='@/assets/curso/temas/tema2/img23.png', alt='Imagen Decorativa')
           
-        figure.d-flex.align-items-center.mb-4
+        figure.d-flex.align-items-center.mb-4#t_2_4
           img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
           h2.mb-0 Medidas correctivas
         

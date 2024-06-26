@@ -16,7 +16,7 @@
           p.mb-0 Las zonas agroecológicas diferencian las condiciones que determinan la respuesta en producción de los cultivos. Algunas de estas se generan a partir del rango de adaptación del cultivo, explicado principalmente por variables como: la temperatura, la precipitación y el brillo solar.
         p Para realizar la preparación del suelo se debe tener ya definido el cultivo o la actividad pecuaria que se desea implementar en el terreno, de esta manera se identificarán los recursos y las necesidades de nutrientes para aumentar la efectividad en la producción. Para ello, es necesario realizar un estudio preliminar que será el punto de partida para la identificación de las necesidades de los suelos.
     
-    figure.d-flex.align-items-center.mb-4
+    figure.d-flex.align-items-center.mb-4#t_1_1
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.mb-0 Maquinaria, herramienta y equipos
     
@@ -46,7 +46,7 @@
     p.mb-5 Para garantizar que los alimentos producidos cumplen con los requisitos de calidad exigidos por el consumidor, se debe evaluar y evidenciar que todos los equipos, utensilios y herramientas que se utilizan en las labores de campo, cosecha y poscosecha se encuentran ubicados en un espacio exclusivo para tal fin y que además, presentan buenas condiciones y permanecen limpios y organizados. Es fundamental contar con un programa de mantenimiento preventivo y calibración para cada uno de estos elementos.
     
 
-    figure.d-flex.align-items-center.mb-4
+    figure.d-flex.align-items-center.mb-4#t_1_2
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.mb-0 Operación y manejo de manuales técnicos 
     
@@ -65,7 +65,7 @@
     .col-md-10.p-4.mb-5.clr--lightgreen.mx-auto
       p.mb-0 Es importante introducir en los manuales un plano o ciclo de seguimiento para ser instalado en la ejecución del proceso en un lugar visible.
     
-    figure.d-flex.align-items-center.mb-4
+    figure.d-flex.align-items-center.mb-4#t_1_3
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
       h2.mb-0 Procesos de labranza
 
@@ -114,7 +114,7 @@
               img(src='@/assets/curso/temas/tema1/img09.png', alt='Imagen Decorativa')
 
 
-    figure.d-flex.align-items-center.mb-4
+    figure.d-flex.align-items-center.mb-4#t_1_4
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.mb-0 Conservación
 

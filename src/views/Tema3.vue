@@ -98,7 +98,7 @@
             p  El uso de los herbicidas sintéticos afectan de manera considerable los  suelos, es por ello que se hace pertinente sustituirlos por otros de origen orgánico. 
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img33.png')})`}")
     
-    figure.d-flex.align-items-center.mb-4
+    figure.d-flex.align-items-center.mb-4#t_3_1
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.mb-0 Prácticas de conservación
 
@@ -133,9 +133,9 @@
       .p-5.clr--lightgreen.mb-2(data-aos="fade-left")
           p.mb-0 El concepto de conservación del suelo hace referencia a un conjunto de técnicas y prácticas agrícolas que evitan la degradación, la erosión y el agotamiento de éste. Las técnicas de conservación del suelo están orientadas a un uso a largo plazo, pensando en el futuro. Tomando medidas adecuadas y oportunas, los agricultores aumentan el rendimiento de sus campos para los años venideros.
 
-    figure.d-flex.align-items-center.mb-4
+    figure.d-flex.align-items-center.mb-4#t_3_2
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
-      h2.mb-0  Zanjas, trinchos y barreras vivas
+      h2.mb-0 Zanjas, trinchos y barreras vivas
 
     p.mb-5 Las zanjas, trinchos y las barreras vivas son mecanismos utilizados para diferentes fines, pero todos relacionados con la agricultura y producción pecuaria, los cuales son instalados de acuerdo con la necesidad y un fin particular, a continuación, se realiza una breve descripción de cada uno: 
        
@@ -158,9 +158,9 @@
           img.mb-3.mb-md-0.img-t.m-auto(src='@/assets/curso/temas/tema3/img32.png', alt='Imagen Decorativa')
        
 
-    figure.d-flex.align-items-center.mb-4
+    figure.d-flex.align-items-center.mb-4#t_3_3
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
-      h2.mb-0  Abonos verdes, materia orgánica y terrazas
+      h2.mb-0 Abonos verdes, materia orgánica y terrazas
 
     p.mb-5 Otras formas de protección de los suelos es la implantación de abonos verdes, el uso de la materia orgánica para producción de abonos y la implementación de terrazas en terrenos topográficamente accidentados. A continuación, se detallan las formas de proteger sus suelos:
 

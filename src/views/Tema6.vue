@@ -14,7 +14,7 @@
           .col-md-10.col-11.clr--acccent-color.p-4.mx-auto
             p.mb-0 La aplicación de la normatividad vigente al sistema productivo es una garantía para la comercialización de los productos finales, ya que algunas cadenas de comercialización exigen la presentación de los permisos para la aceptación de los productos, es por ello que la empresa debe cumplir con los estándares nacionales para la implementación del sistema de producción. En caso de que la empresa se direccione a la exportación de sus productos deberá consultar la legislación aplicable para la exportación de alimentos y tener en cuenta las exigencias del país al que se envía la producción. 
       
-      figure.d-flex.align-items-center.mb-4
+      figure.d-flex.align-items-center.mb-4#t_6_1
         img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
         h2.mb-0 Normatividad sanitaria y ambiental
       
@@ -113,7 +113,7 @@
             td Lineamientos complementarios para la articulación y coordinación de las actividades de inspección, vigilancia y control relacionadas con alimentos y bebidas destinados al consumo humano.
           
 
-      figure.d-flex.align-items-center.mb-4
+      figure.d-flex.align-items-center.mb-4#t_6_2
         img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
         h2.mb-0 Tipos de formatos de registro
 
@@ -146,7 +146,7 @@
       p.mb-5 Es válido mencionar que esta información puede ser requerida por los entes de control y la empresa estará en obligación de suministrarla. 
       
       
-        figure.d-flex.align-items-center
+        figure.d-flex.align-items-center#t_6_3
           img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
           h2.mb-0 Técnicas de diligenciamiento
 

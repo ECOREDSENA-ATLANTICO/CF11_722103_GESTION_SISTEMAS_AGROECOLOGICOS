@@ -17,7 +17,7 @@
           img.img-t.m-auto(src='@/assets/curso/temas/tema4/img39.png', alt='Imagen Decorativa')
     
     
-    figure.mb-5
+    figure.d-flex.align-items-center.mb-4#t_4_1
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
       h2.mb-0 Concepto y componentes
 
@@ -35,14 +35,13 @@
         figure.d-none.d-lg-block
           img.img-t.mx-auto(src='@/assets/curso/temas/tema4/img40.svg', alt='Reducción de los costos de producción y preservación de los recursos naturales que se encuentran en la finca. Reutilización de los residuos orgánicos producto de los procesos agropecuarios generados insitu. Disminución del impacto ambiental negativo ocasionado por la agricultura industrial sobre el medio ambiente y la salud humana. Fortalecimiento de la economía de la granja. ')
   
-    figure.d-flex.align-items-center.mb-4
+    figure.d-flex.align-items-center.mb-4#t_4_2
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.mb-0 Especificaciones del sitio de preparación
 
     p.mb-5 Definir el lugar donde se va a implementar la biofábrica o el sitio destinado para la producción de los abonos orgánicos en la finca es un tema que debe ser pensado con cabeza fría, debido a que estas instalaciones a menudo producen incomodidades a los residentes del sector por la emisión de olores y presencia de vectores por la misma razón. A continuación, se detallan algunas condiciones que debe tener en cuenta: 
  
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-
       .tarjeta-avatar
         img.img-t(src='@/assets/curso/temas/tema4/img44.png' alt='AvatarTop')
         .tarjeta.clr--lightgreen
@@ -108,8 +107,8 @@
           p.p-3.pt-4.mb-0.text-center 
             b Garantizar la presencia de los microorganismos para la descomposición de la materia orgánica (en la lombricultura garantizar la cantidad mínima de lombrices).
 
-    figure.mb-4
-      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
+    figure.d-flex.align-items-center.mb-4#t_4_3
+      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
       h2.mb-0 Bioabonos orgánicos
 
     p.mb-4 Los bioabonos son fertilizantes orgánicos - minerales que contiene elementos nutrientes como N, P, K, Ca, Mg S + elementos menores; también pueden tener microorganismos como hongos Micorrízicos, bacterias fijadoras de nitrógeno y agentes bioquímicos fisiológicamente activos como enzimas, aminoácidos, ácidos húmicos y aminoácidos entre otros, que pueden acelerar la toma de los nutrientes por las plantas y/o absorberlos para ser metabolizados. 
@@ -123,7 +122,7 @@
             .p-4
               p.mb-0 El uso de los bioabonos surge como una alternativa para desarrollar una agricultura más sostenida en el largo plazo, en razón al acelerado deterioro de los suelos intervenidos, por la alta y prolongada fertilización, con productos de síntesis química como también herbicidas y otros de uso agropecuarios, y la complementariedad con los sistemas principales de producción, estimulando la generación de agroindustrias auxiliares de bioconversión.
 
-    figure.d-flex.align-items-center.mb-4
+    figure.d-flex.align-items-center.mb-4#t_4_4
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
       h2.mb-0 Etapas de preparación de bioabonos
 
@@ -209,7 +208,7 @@
               | es un derivado de la leche, es un fuerte esterilizante y supresor de microorganismos nocivos. Además posee propiedades hormonales y fungistáticas, es buen descomponedor de materia orgánica.
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img66.png')})`}")
       
-    figure.d-flex.align-items-center.mb-4
+    figure.d-flex.align-items-center.mb-4#t_4_5
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.mb-0 Materiales e insumos
 
