@@ -19,7 +19,7 @@
     
     figure.mb-5
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
-      h2.d-inline-block.mb-0 Concepto y componentes
+      h2.mb-0 Concepto y componentes
 
     p.mb-2 Una biofábrica se puede definir como la infraestructura establecida en un espacio de la finca utilizada para la preparación de abonos orgánicos líquidos y sólidos. Biofertilizantes: abonos líquidos y sólidos producidos de forma limpia u orgánica para ser aplicados en los cultivos establecidos en el sector rural.
     p.mb-4 La implementación de una biofábrica de abonos aporta ventajas a la producción agrícola las cuales de describen a continuación (ver figura 3):
@@ -37,7 +37,7 @@
   
     figure.d-flex.align-items-center.mb-4
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
-      h2.d-inline-block.mb-0 Especificaciones del sitio de preparación
+      h2.mb-0 Especificaciones del sitio de preparación
 
     p.mb-5 Definir el lugar donde se va a implementar la biofábrica o el sitio destinado para la producción de los abonos orgánicos en la finca es un tema que debe ser pensado con cabeza fría, debido a que estas instalaciones a menudo producen incomodidades a los residentes del sector por la emisión de olores y presencia de vectores por la misma razón. A continuación, se detallan algunas condiciones que debe tener en cuenta: 
  
@@ -110,7 +110,7 @@
 
     figure.mb-4
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
-      h2.d-inline-block.mb-0 Bioabonos orgánicos
+      h2.mb-0 Bioabonos orgánicos
 
     p.mb-4 Los bioabonos son fertilizantes orgánicos - minerales que contiene elementos nutrientes como N, P, K, Ca, Mg S + elementos menores; también pueden tener microorganismos como hongos Micorrízicos, bacterias fijadoras de nitrógeno y agentes bioquímicos fisiológicamente activos como enzimas, aminoácidos, ácidos húmicos y aminoácidos entre otros, que pueden acelerar la toma de los nutrientes por las plantas y/o absorberlos para ser metabolizados. 
     
@@ -125,7 +125,7 @@
 
     figure.d-flex.align-items-center.mb-4
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
-      h2.d-inline-block.mb-0 Etapas de preparación de bioabonos
+      h2.mb-0 Etapas de preparación de bioabonos
 
     p.mb-4 La preparación de los bioabonos de acuerdo a lo dispuesto por Ramos Agüero, D., & Terry Alfonso, E. (2014) está marcada por tres pasos fundamentales (ver figura 4):
     
@@ -144,8 +144,8 @@
       .tarjeta.clr--lightorange.p-4
           p.mb-0 En el caso particular de la producción de Bocashi es necesaria la interacción de más ingredientes el cual a manera de ejemplo se debe revisar a continuación:
 
-    SlyderF(columnas="col-lg-2 col-xl-3").mb-5
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+    SlyderF(columnas="col-lg-3 col-xl-3 col-sm-6").mb-5
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-4
@@ -154,7 +154,7 @@
               | este es el ingrediente que nunca debe faltar en la formulación de este abono orgánico, provee los microorganismos necesarios para la transformación de los desechos.
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img60.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-4
@@ -163,7 +163,7 @@
               | son las fuentes principales de nutrimentos como el nitrógeno, fósforo, potasio, calcio y micro nutrimentos.
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img61.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-4
@@ -172,7 +172,7 @@
               | proveen altas cantidades de potasio, esta puede ser obtenida de los fogones o estufas caseras que funcionan con leña.
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img62.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-4
@@ -182,7 +182,7 @@
  
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img63.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-4
@@ -191,7 +191,7 @@
               | sirve como fuente de energía para los microorganismos que descomponen los materiales orgánicos. Además provee cierta cantidad de boro, calcio y otros nutrimentos.
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img64.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-4
@@ -200,7 +200,7 @@
               | constituyen una fuente rica de nutrimentos para los microorganismos.
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img65.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-4
@@ -211,7 +211,7 @@
       
     figure.d-flex.align-items-center.mb-4
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
-      h2.d-inline-block.mb-0 Materiales e insumos
+      h2.mb-0 Materiales e insumos
 
     p.mb-4 La construcción de la biofábrica dependerá de la cantidad de recursos con los que se cuente y a la escala que se desea implementar. Generalmente la instalación de una biofábrica se realiza con materiales de fácil obtención económica como la guadua, madera, zinc, eternit, plástico y mallas para control de vectores, y los insumos para la producción dependerá de cada cultivo en particular y las cantidades de materia prima de la que se pueda disponer 
 

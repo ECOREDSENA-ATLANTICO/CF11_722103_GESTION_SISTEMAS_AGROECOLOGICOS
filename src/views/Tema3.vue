@@ -10,7 +10,7 @@
     p.mb-5 Las conservaciones de los suelos son fundamentales para la implementación de la agricultura sostenible, por tal razón, a continuación, se referencian algunos tipos de técnicas de conservación de suelos: 
 
     SlyderF(columnas="col-lg-6 col-xl-4").mb-5
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-5
@@ -18,7 +18,7 @@
             p En la labranza de conservación se busca minimizar el número de labranzas en la finca, de esta manera se evita la erosión de los suelos.
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img24.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-5
@@ -26,7 +26,7 @@
             p  La rotación consiste en el cambio periódico de los cultivos por especies diferentes con el objeto de que un mismo cultivo no perdure por muchas temporadas, esto mitiga la aparición de plagas y aporta a la mejora de la estructura de la tierra. 
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img25.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-5
@@ -34,7 +34,7 @@
             p  Los productos químicos son perjudiciales para el medio ambiente debido a que sus componentes no solo afectan la razón por la que se usó, sino también contamina los suelos y las aguas. Es necesario trascender a los abonos orgánicos.
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img26.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-5
@@ -42,7 +42,7 @@
             p  Los organismos que viven en el suelo son un elemento clave en su conservación y el uso de pesticidas y fertilizantes químicos puede tener consecuencias negativas para ellos, especialmente si se usan de forma habitual y/o excesiva, debido a la toxicidad que pueden alcanzar.
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img27.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-5
@@ -50,7 +50,7 @@
             p  Realizar las siembras en hileras a lo largo del contorno en terrenos con topografía accidentada, de esta manera se controlan las corrientes de agua. 
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img28.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-5
@@ -58,7 +58,7 @@
             p  Esta técnica combina cultivos de gran tamaño con unos de bajo tamaño lo cual ayuda a la protección de los vientos, acción de las aves, entre otros.
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img31.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-5
@@ -66,7 +66,7 @@
             p  Los cortavientos o barreras vivas conocidas comúnmente realizan protección de los vientos, sirven como cerramiento perimetral, sombra, entre otros. 
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img29.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-5
@@ -74,7 +74,7 @@
             p  Con la implementación de esta técnica se puede lograr la producción de forraje para el pastoreo de especies pecuarias, mantener la humedad de los suelos, biodiversidad, proporcionar materia prima para la producción de abono, entre otras. 
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img30.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-5
@@ -82,7 +82,7 @@
             p  Esta técnica consiste en instalar árboles y arbustos en las orillas de las masas de agua para evitar sedimentos y el arrastre de agua.
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img34.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-5
@@ -90,7 +90,7 @@
             p  Se trata de un surco para las corrientes de agua cubierto de hierba. Está conectado a una zanja, fosa o corriente para recoger el agua, y las raíces de la hierba mantienen la tierra en su sitio, protegiendo de la erosión del agua, y contribuyendo así a la conservación del suelo.
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img32.png')})`}")
 
-      .tarjeta.tarjeta-slide.arriba.clr--lightgreen(@mouseover="indicadorTarjetaSlide = false")
+      .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-5

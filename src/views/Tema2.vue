@@ -26,7 +26,7 @@
        
         p.mb-5 Este permiso lo otorgan las Corporaciones Autónomas Regionales al cual pertenezca el territorio en el que se tiene el proyecto de abastecimiento de agua después de la evaluación de la solicitud presentada. Los requerimientos para la solicitud varían de acuerdo a la corporación territorial a la que se dirija, pero generalmente se tiene en cuenta lo siguiente:
 
-        SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+        SlyderF.mb-5(columnas="col-lg-6 col-xl-3 col-sm-6")
 
           .tarjeta-avatar
             img.img-t(src='@/assets/curso/temas/tema2/img13.png' alt='AvatarTop')
@@ -119,7 +119,7 @@
         p.mb-4 Las medidas correctivas y enmiendas se pueden generar a través de procesos de mejora de los cuales existen varias estrategias que se comparten a través del siguiente vídeo: 
         figure(data-aos="fade-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/AVV3sZxEns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/-Y8uT-NJMT0?si=kbnH0vN4Zp54Kprx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
 </template>
 
