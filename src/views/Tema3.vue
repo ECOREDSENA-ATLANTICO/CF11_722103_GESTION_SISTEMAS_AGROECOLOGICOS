@@ -97,7 +97,57 @@
             h4 Manejo integrado de plagas
             p  El uso de los herbicidas sintéticos afectan de manera considerable los  suelos, es por ello que se hace pertinente sustituirlos por otros de origen orgánico. 
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img33.png')})`}")
-    
+      
+    figure.d-flex.align-items-center.mb-4#t_3_1
+      img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
+      h2.mb-0 Manejo ecológico del suelo
+    p.mb-0 El manejo ecológico del suelo hace referencia a los cuidados que se deben tener en cuenta para el uso adecuado de los recursos naturales con el fin de preservarlos y minimizar los impactos negativos que las actividades agrícolas y pecuarias tienen en ellos.
+    p.mb-3 Es por ello que el manejo ecológico busca que los suelos estén en óptimas condiciones mediante la conservación efectiva y el mantenimiento de la fertilidad de los mismos, mediante el fortalecimiento de las condiciones para propender que la presencia de los microorganismos.
+    p.mb-5 El éxito en la conservación de los suelos radica en la utilización de las materias orgánicas presentes en los mismos para garantizar la humedad que se necesita para que los microorganismos actúen, aportando los nutrientes necesarios a los suelos a través del proceso de descomposición:
+
+
+    .row
+      .col-md-6.d-flex.flex-column
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img.w90.img-t.m-auto(src='@/assets/curso/temas/tema3/img113.svg', alt='Imagen Decorativa')
+          .tarjeta.clr--lightgray.shadow-sm.align-items-center.d-flex
+            .p-4
+              h4.mb-0 
+                b Materia Orgánica
+              p.mb-0 Residuos orgánicos.
+
+      .col-md-6.d-flex.flex-column
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img.w90.img-t.m-auto(src='@/assets/curso/temas/tema3/img115.svg', alt='Imagen Decorativa')
+          .tarjeta.clr--lightgray.shadow-sm.align-items-center.d-flex
+            .p-4
+              h4.mb-0 
+                b NO3 + H2PO4
+              p.mb-0 Elementos en forma soluble.
+      
+    .row.justify-content-center
+      .col-md-6.d-flex.flex-column
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img.w90.img-t.m-auto(src='@/assets/curso/temas/tema3/img114.svg', alt='Imagen Decorativa')
+          .tarjeta.clr--lightgray.shadow-sm.align-items-center.d-flex
+            .p-4
+              h4.mb-0 
+                b Humificación
+              p.mb-0 Conjunto de procesos físicos, químicos y biológicos que transforman la materia orgánica en humus.
+      .col-md-6.d-flex.flex-column
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img.w90.img-t.m-auto(src='@/assets/curso/temas/tema3/img116.svg', alt='Imagen Decorativa')
+          .tarjeta.clr--lightgray.shadow-sm.align-items-center.d-flex
+            .p-4
+              h4.mb-0 
+                b Proceso de Mineralización
+              p.mb-0 Consiste en la transformación del humus en compuestos solubles asimilables por las plantas. Es un proceso lento (1 año) y solo se realiza en condiciones altamente especializadas.
+
+
     figure.d-flex.align-items-center.mb-4#t_3_1
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.mb-0 Prácticas de conservación
@@ -165,34 +215,35 @@
     p.mb-5 Otras formas de protección de los suelos es la implantación de abonos verdes, el uso de la materia orgánica para producción de abonos y la implementación de terrazas en terrenos topográficamente accidentados. A continuación, se detallan las formas de proteger sus suelos:
 
     .row.justify-content-center.mb-5.mx-auto
-      .col-10
+      .col-12
         .row
-          .col-12.col-md-3.col-lg-3.mb-4(data-aos="fade-right")
+          .col-12.col-md-4.col-lg-4.mb-4(data-aos="fade-right")
             .tarjeta-avatar
               img.img-t(src='@/assets/curso/temas/tema3/img35.png' alt='AvatarTop')
               .tarjeta.clr--lightgreen
                 .p-3.pt-4
                   p.text-center.mb-0 
-                    b Materia Orgánica
-                  p.mb-3.text-center Residuos orgánicos.
+                    b Abonos verdes 
+                  p.mb-3.text-center Son plantas con capacidad de adaptarse a diversos suelos y climas, de rápido crecimiento y alto poder de producción de material vegetativo. Se cultivan con el fin de proteger y recuperar el suelo. Se encuentran en forma Natural como malezas en áreas no cultivadas.
           
-          .col-12.col-md-3.col-lg-3.mb-4(data-aos="fade-right")
+          .col-12.col-md-4.col-lg-4.mb-4(data-aos="fade-right")
             .tarjeta-avatar
               img.img-t(src='@/assets/curso/temas/tema3/img36.png' alt='AvatarTop')
               .tarjeta.clr--lightgreen
                 .p-3.pt-4
                   p.text-center.mb-0 
-                    b Humificación
-                  p.mb-3.text-center Físicos, químicos y biológicos que transforman la materia orgánica en humus.
+                    b Materia orgánica
+                  p.mb-3.text-center La materia orgánica y el humus almacenan muchos nutrientes del suelo. También mejoran su estructura, sueltan suelos de arcilla, ayudan a prevenir la erosión y mejoran la capacidad de retención de nutrientes y agua de suelos arenosos o toscos.
 
-          .col-12.col-md-6.col-lg-6.mb-4(data-aos="fade-right")
+          .col-12.col-md-4.col-lg-4.mb-4(data-aos="fade-right")
             .tarjeta-avatar
               img.img-t(src='@/assets/curso/temas/tema3/img37.png' alt='AvatarTop')
               .tarjeta.clr--lightgreen
                 .p-3.pt-4
                   p.text-center.mb-0 
-                    b Procesos de Mineralización
-                  p.mb-3.text-center Consiste en la transformación del humus en compuestos solubles asimilables por las plantas. Es un proceso lento (1 año) y solo se realiza en condiciones altamente especializadas.
+                    b Terrazas
+                  p.mb-3.text-center Las terrazas son un método de cultivo que propone la reordenación de las tierras de cultivo o la conversión de las colinas en tierras de cultivo mediante la construcción de plataformas en distintos niveles. A cada plataforma se la denomina terraza.
+
 
 </template>
 

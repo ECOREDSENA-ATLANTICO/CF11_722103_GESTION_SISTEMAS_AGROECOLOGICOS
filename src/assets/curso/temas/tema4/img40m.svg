@@ -3,115 +3,95 @@
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 342.1 645.7" style="enable-background:new 0 0 342.1 645.7;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;}
-	.st1{fill:#F6F6F6;}
-	.st2{fill:url(#Rectángulo_347846_00000178166317405954202910000008223731233212190848_);}
-	.st3{fill:#FFFFFF;}
-	.st4{fill:#12263F;}
-	.st5{font-family:'Roboto-Regular';}
-	.st6{font-size:16px;}
-	.st7{fill:url(#Rectángulo_352683_00000090291224240553852130000009042210423697874620_);}
-	.st8{fill:url(#Rectángulo_362522_00000052789327225108055780000017238176462056704443_);}
-	.st9{fill:url(#Rectángulo_362524_00000024689172201884877630000003031498812104663451_);}
-	.st10{fill:url(#tr_vi_2_Convertido_Recuperado_-03-2_00000083088870874331425420000015937990866420961432_);}
-	.st11{fill:url(#tr_vi_2_Convertido_Recuperado_-03-2_00000050655435753688964810000010872123899386426291_);}
+	.st0{fill:#F6F6F6;}
+	.st1{fill:url(#Rectángulo_347846_00000044175401951905232390000013976866879356517016_);}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#12263F;}
+	.st4{font-family:'Roboto-Regular';}
+	.st5{font-size:16px;}
+	.st6{fill:url(#Rectángulo_352683_00000176725834201215032310000017953873293876937139_);}
+	.st7{enable-background:new    ;}
+	.st8{font-family:'Roboto-Italic';}
+	.st9{fill:url(#Rectángulo_362522_00000136406174942580853900000000531960863157383344_);}
+	.st10{fill:url(#Rectángulo_362524_00000141445713730239332470000005694058633213348519_);}
 </style>
-<pattern  y="645.7" width="105" height="105" patternUnits="userSpaceOnUse" id="pattern-2" viewBox="0 -105 105 105" style="overflow:visible;">
-	<g>
-		<rect y="-105" class="st0" width="105" height="105"/>
-		<g transform="scale(1.235 1.235)">
-			
-				<image style="overflow:visible;enable-background:new    ;" width="200" height="115" id="image_00000029733251320795071800000016057792487117803171_" xlink:href="F34B24A54192FDB.png"  transform="matrix(0.5249 0 0 -0.5249 10.504 -22.3125)">
-			</image>
-		</g>
+<path id="Rectángulo_351329" class="st0" d="M33.9,24.4h273c11,0,20,9,20,20v551.1c0,11-9,20-20,20h-273c-11,0-20-9-20-20V44.4
+	C13.9,33.4,22.9,24.4,33.9,24.4z"/>
+<linearGradient id="Rectángulo_347846_00000048467012485262245730000018430805320072257689_" gradientUnits="userSpaceOnUse" x1="-3120.0039" y1="10523.9248" x2="-3118.9141" y2="10524.7324" gradientTransform="matrix(246.166 0 0 140.419 768091.0625 -1477685.375)">
+	<stop  offset="0" style="stop-color:#ADCE32"/>
+	<stop  offset="1" style="stop-color:#0B481E"/>
+</linearGradient>
+<path id="Rectángulo_347846" style="fill:url(#Rectángulo_347846_00000048467012485262245730000018430805320072257689_);" d="
+	M89.5,54.3h166.2c22.1,0,40,17.9,40,40v60.4c0,22.1-17.9,40-40,40H89.5c-22.1,0-40-17.9-40-40V94.3C49.5,72.3,67.4,54.3,89.5,54.3z"
+	/>
+<path id="Rectángulo_347847" class="st2" d="M90.8,60.2h162.5c19.9,0,36,16.1,36,36v56.9c0,19.9-16.1,36-36,36H90.8
+	c-19.9,0-36-16.1-36-36V96.2C54.8,76.3,71,60.2,90.8,60.2z"/>
+<g id="Grupo_20710" transform="translate(-1474.333 -10387.743)">
+	<g id="Grupo_20708" transform="translate(0 -35.196)">
+		<text transform="matrix(1 0 0 1 1559.271 10509.9121)" class="st3 st4 st5">Reducción de los costos </text>
+		<text transform="matrix(1 0 0 1 1589.677 10531.9121)" class="st3 st4 st5">de producción y </text>
+		<text transform="matrix(1 0 0 1 1576.9551 10553.9121)" class="st3 st4 st5">preservación de los </text>
+		<text transform="matrix(1 0 0 1 1554.584 10575.9121)" class="st3 st4 st5">recursos naturales que se </text>
+		<text transform="matrix(1 0 0 1 1567.9661 10597.9121)" class="st3 st4 st5">encuentran en la finca.</text>
 	</g>
-</pattern>
-<g id="Grupo_1099676" transform="translate(1550.417 10520.711)">
-	<path id="Rectángulo_351329" class="st1" d="M-1516.5-10496.3h273c11,0,20,9,20,20v551.1c0,11-9,20-20,20h-273c-11,0-20-9-20-20
-		v-551.1C-1536.5-10487.3-1527.5-10496.3-1516.5-10496.3z"/>
-	
-		<linearGradient id="Rectángulo_347846_00000043451349904769037810000003626176141637230764_" gradientUnits="userSpaceOnUse" x1="-2335.2053" y1="-9658.3867" x2="-2334.1155" y2="-9659.1943" gradientTransform="matrix(246.166 0 0 -140.419 573349.8125 -1366668.125)">
-		<stop  offset="0" style="stop-color:#ADCE32"/>
-		<stop  offset="1" style="stop-color:#0B481E"/>
-	</linearGradient>
-	<path id="Rectángulo_347846" style="fill:url(#Rectángulo_347846_00000043451349904769037810000003626176141637230764_);" d="
-		M-1460.9-10466.4h166.2c22.1,0,40,17.9,40,40v60.4c0,22.1-17.9,40-40,40h-166.2c-22.1,0-40-17.9-40-40v-60.4
-		C-1500.9-10448.4-1483-10466.4-1460.9-10466.4z"/>
-	<path id="Rectángulo_347847" class="st3" d="M-1459.6-10460.5h162.5c19.9,0,36,16.1,36,36v56.9c0,19.9-16.1,36-36,36h-162.5
-		c-19.9,0-36-16.1-36-36v-56.9C-1495.6-10444.4-1479.4-10460.5-1459.6-10460.5z"/>
-	<g id="Grupo_20710" transform="translate(-1474.333 -10387.743)">
-		<g id="Grupo_20708" transform="translate(0 -35.196)">
-			<text transform="matrix(1 0 0 1 8.854 -10.799)" class="st4 st5 st6">Reducción de los costos </text>
-			<text transform="matrix(1 0 0 1 39.26 11.201)" class="st4 st5 st6">de producción y </text>
-			<text transform="matrix(1 0 0 1 26.538 33.201)" class="st4 st5 st6">preservación de los </text>
-			<text transform="matrix(1 0 0 1 4.167 55.201)" class="st4 st5 st6">recursos naturales que se </text>
-			<text transform="matrix(1 0 0 1 17.549 77.201)" class="st4 st5 st6">encuentran en la finca</text>
-		</g>
-	</g>
-	<g id="Grupo_1085714" transform="translate(-2014.166 -11428.593)">
-		<g id="Grupo_1085712" transform="translate(513.25 1122.654)">
-			
-				<linearGradient id="Rectángulo_352683_00000156547944331592754520000010533392982987676600_" gradientUnits="userSpaceOnUse" x1="-834.2894" y1="647.2621" x2="-833.1994" y2="646.454" gradientTransform="matrix(246.166 0 0 -118.123 205376.2656 76472.7344)">
-				<stop  offset="0" style="stop-color:#FFA686"/>
-				<stop  offset="1" style="stop-color:#BF6B4C"/>
-			</linearGradient>
-			<path id="Rectángulo_352683" style="fill:url(#Rectángulo_352683_00000156547944331592754520000010533392982987676600_);" d="
-				M40,0h166.2c22.1,0,40,17.9,40,40v38.1c0,22.1-17.9,40-40,40H40c-22.1,0-40-17.9-40-40V40C0,17.9,17.9,0,40,0z"/>
-			<path id="Rectángulo_352684" class="st3" d="M39.4,5.8h166.5c18.8,0,34,15.2,34,34v38.6c0,18.8-15.2,34-34,34H39.4
-				c-18.8,0-34-15.2-34-34V39.8C5.4,21,20.6,5.8,39.4,5.8z"/>
-			<g id="Grupo_20708-2" transform="translate(23.75 18.787)">
-				<text transform="matrix(1 0 0 1 -4.301 15)" class="st4 st5 st6">Reutilización de los residuos </text>
-				<text transform="matrix(1 0 0 1 4.527 37)" class="st4 st5 st6">orgánicos producto de los </text>
-				<text transform="matrix(1 0 0 1 11.059 59)" class="st4 st5 st6">procesos agropecuarios </text>
-				<text transform="matrix(1 0 0 1 38.094 81)" class="st4 st5 st6">generados insitu</text>
-			</g>
-		</g>
-	</g>
-	<g id="Grupo_1085715" transform="translate(-2309.167 -11289.74)">
-		<g id="Grupo_1085711" transform="translate(808.25 1121.925)">
-			
-				<linearGradient id="Rectángulo_362522_00000068653900113248639810000003469380938684507829_" gradientUnits="userSpaceOnUse" x1="-834.2885" y1="509.4145" x2="-833.1984" y2="508.6065" gradientTransform="matrix(246.166 0 0 -139.118 205376.0312 70887.7969)">
-				<stop  offset="0" style="stop-color:#ADCE32"/>
-				<stop  offset="1" style="stop-color:#0B481E"/>
-			</linearGradient>
-			<path id="Rectángulo_362522" style="fill:url(#Rectángulo_362522_00000068653900113248639810000003469380938684507829_);" d="
-				M40,0h166.2c22.1,0,40,17.9,40,40v59.1c0,22.1-17.9,40-40,40H40c-22.1,0-40-17.9-40-40V40C0,17.9,17.9,0,40,0z"/>
-			<path id="Rectángulo_362523" class="st3" d="M39.4,5.8h166.5c18.8,0,34,15.2,34,34v59.6c0,18.8-15.2,34-34,34H39.4
-				c-18.8,0-34-15.2-34-34V39.8C5.4,21,20.6,5.8,39.4,5.8z"/>
-			<g id="Grupo_20708-3" transform="translate(16.079 14.837)">
-				<text transform="matrix(1 0 0 1 17.074 15)" class="st4 st5 st6">Disminución del impacto </text>
-				<text transform="matrix(1 0 0 1 37.242 37)" class="st4 st5 st6">ambiental negativo </text>
-				<text transform="matrix(1 0 0 1 1.484 59)" class="st4 st5 st6">ocasionado por la agricultura </text>
-				<text transform="matrix(1 0 0 1 17.609 81)" class="st4 st5 st6">industrial sobre el medio </text>
-				<text transform="matrix(1 0 0 1 5.418 103)" class="st4 st5 st6">ambiente y la salud humana</text>
-			</g>
-		</g>
-	</g>
-	<g id="Grupo_1085716" transform="translate(-2600.087 -11122.67)">
-		<g id="Grupo_1085710" transform="translate(1094.25 1113.973)">
-			
-				<linearGradient id="Rectángulo_362524_00000152222098479538581350000002567326200358887555_" gradientUnits="userSpaceOnUse" x1="-829.4916" y1="348.9862" x2="-828.4016" y2="348.1783" gradientTransform="matrix(256.006 0 0 -75.456 212357.5 26343.4531)">
-				<stop  offset="0" style="stop-color:#FFA686"/>
-				<stop  offset="1" style="stop-color:#BF6B4C"/>
-			</linearGradient>
-			<path id="Rectángulo_362524" style="fill:url(#Rectángulo_362524_00000152222098479538581350000002567326200358887555_);" d="
-				M37.7,0h180.6C239.1,0,256,16.9,256,37.7l0,0c0,20.8-16.9,37.7-37.7,37.7H37.7C16.9,75.5,0,58.6,0,37.7l0,0C0,16.9,16.9,0,37.7,0
-				z"/>
-			<path id="Rectángulo_362525" class="st3" d="M37.3,5.8h180.4c17.6,0,31.9,14.3,31.9,32l0,0c0,17.6-14.3,32-31.9,32H37.3
-				c-17.6,0-32-14.3-32-32l0,0C5.4,20.1,19.7,5.8,37.3,5.8z"/>
-			<g id="Grupo_20708-4" transform="translate(23.507 13.623)">
-				<text transform="matrix(1 0 0 1 28.715 16.711)" class="st4 st5 st6">Fortalecimiento de la </text>
-				<text transform="matrix(1 0 0 1 25.145 38.711)" class="st4 st5 st6">economía de la granja</text>
-			</g>
-		</g>
-	</g>
-	
-		<pattern  id="tr_vi_2_Convertido_Recuperado_-03-2_00000042739099497837061670000011024962849930489020_" xlink:href="#pattern-2" patternTransform="matrix(1 0 0 -1 305.5899 -16747.7461)">
-	</pattern>
-	
-		<rect id="tr_vi_2_Convertido_Recuperado_-03-2" x="-1308.3" y="-9946.4" style="fill:url(#tr_vi_2_Convertido_Recuperado_-03-2_00000042739099497837061670000011024962849930489020_);" width="105" height="60.4"/>
 </g>
-<pattern  id="tr_vi_2_Convertido_Recuperado_-03-2_00000044143811093462414300000003126440825913518495_" xlink:href="#pattern-2" patternTransform="matrix(0.6762 0 0 -0.6762 -2367.0593 -14225.748)">
-</pattern>
-<rect id="tr_vi_2_Convertido_Recuperado_-03-2_00000108272787997731550680000006743383666099080338_" x="4" y="2.4" style="fill:url(#tr_vi_2_Convertido_Recuperado_-03-2_00000044143811093462414300000003126440825913518495_);" width="71" height="40.8"/>
+<g id="Grupo_1085714" transform="translate(-2014.166 -11428.593)">
+	<g id="Grupo_1085712" transform="translate(513.25 1122.654)">
+		
+			<linearGradient id="Rectángulo_352683_00000083070725306618518220000018273649488141933710_" gradientUnits="userSpaceOnUse" x1="-118.1722" y1="10524.5049" x2="-117.0822" y2="10525.3135" gradientTransform="matrix(246.166 0 0 118.123 30642.998 -1232649.25)">
+			<stop  offset="0" style="stop-color:#FFA686"/>
+			<stop  offset="1" style="stop-color:#BF6B4C"/>
+		</linearGradient>
+		<path id="Rectángulo_352683" style="fill:url(#Rectángulo_352683_00000083070725306618518220000018273649488141933710_);" d="
+			M1590.4,10520.7h166.2c22.1,0,40,17.9,40,40v38.1c0,22.1-17.9,40-40,40h-166.2c-22.1,0-40-17.9-40-40v-38.1
+			C1550.4,10538.6,1568.3,10520.7,1590.4,10520.7z"/>
+		<path id="Rectángulo_352684" class="st2" d="M1589.8,10526.5h166.5c18.8,0,34,15.2,34,34v38.6c0,18.8-15.2,34-34,34h-166.5
+			c-18.8,0-34-15.2-34-34v-38.6C1555.8,10541.7,1571,10526.5,1589.8,10526.5z"/>
+		<g id="Grupo_20708-2" transform="translate(23.75 18.787)">
+			<text transform="matrix(1 0 0 1 1546.116 10535.7109)" class="st3 st4 st5">Reutilización de los residuos </text>
+			<text transform="matrix(1 0 0 1 1554.944 10557.7109)" class="st3 st4 st5">orgánicos producto de los </text>
+			<text transform="matrix(1 0 0 1 1561.4761 10579.7109)" class="st3 st4 st5">procesos agropecuarios </text>
+			<text transform="matrix(1 0 0 1 1588.511 10601.7109)" class="st7"><tspan x="0" y="0" class="st3 st4 st5">generados </tspan><tspan x="79.2" y="0" class="st3 st8 st5">In situ</tspan></text>
+		</g>
+	</g>
+</g>
+<g id="Grupo_1085715" transform="translate(-2309.167 -11289.74)">
+	<g id="Grupo_1085711" transform="translate(808.25 1121.925)">
+		
+			<linearGradient id="Rectángulo_362522_00000144336933318205826360000005422970208053902502_" gradientUnits="userSpaceOnUse" x1="-118.1704" y1="10523.9531" x2="-117.0803" y2="10524.7617" gradientTransform="matrix(246.166 0 0 139.118 30642.5234 -1453531.5)">
+			<stop  offset="0" style="stop-color:#ADCE32"/>
+			<stop  offset="1" style="stop-color:#0B481E"/>
+		</linearGradient>
+		<path id="Rectángulo_362522" style="fill:url(#Rectángulo_362522_00000144336933318205826360000005422970208053902502_);" d="
+			M1590.4,10520.7h166.2c22.1,0,40,17.9,40,40v59.1c0,22.1-17.9,40-40,40h-166.2c-22.1,0-40-17.9-40-40v-59.1
+			C1550.4,10538.6,1568.3,10520.7,1590.4,10520.7z"/>
+		<path id="Rectángulo_362523" class="st2" d="M1589.8,10526.5h166.5c18.8,0,34,15.2,34,34v59.6c0,18.8-15.2,34-34,34h-166.5
+			c-18.8,0-34-15.2-34-34v-59.6C1555.8,10541.7,1571,10526.5,1589.8,10526.5z"/>
+		<g id="Grupo_20708-3" transform="translate(16.079 14.837)">
+			<text transform="matrix(1 0 0 1 1567.491 10535.7109)" class="st3 st4 st5">Disminución del impacto </text>
+			<text transform="matrix(1 0 0 1 1587.6589 10557.7109)" class="st3 st4 st5">ambiental negativo </text>
+			<text transform="matrix(1 0 0 1 1551.901 10579.7109)" class="st3 st4 st5">ocasionado por la agricultura </text>
+			<text transform="matrix(1 0 0 1 1568.026 10601.7109)" class="st3 st4 st5">industrial sobre el medio </text>
+			<text transform="matrix(1 0 0 1 1555.835 10623.7109)" class="st3 st4 st5">ambiente y la salud humana.</text>
+		</g>
+	</g>
+</g>
+<g id="Grupo_1085716" transform="translate(-2600.087 -11122.67)">
+	<g id="Grupo_1085710" transform="translate(1094.25 1113.973)">
+		
+			<linearGradient id="Rectángulo_362524_00000123430529149400890150000013173961616244093831_" gradientUnits="userSpaceOnUse" x1="-108.5765" y1="10526.5732" x2="-107.4866" y2="10527.3809" gradientTransform="matrix(256.006 0 0 75.456 29349.3516 -783762.0625)">
+			<stop  offset="0" style="stop-color:#FFA686"/>
+			<stop  offset="1" style="stop-color:#BF6B4C"/>
+		</linearGradient>
+		<path id="Rectángulo_362524" style="fill:url(#Rectángulo_362524_00000123430529149400890150000013173961616244093831_);" d="
+			M1588.1,10520.7h180.6c20.8,0,37.7,16.9,37.7,37.7l0,0c0,20.8-16.9,37.7-37.7,37.7h-180.6c-20.8,0.1-37.7-16.8-37.7-37.7l0,0
+			C1550.4,10537.6,1567.3,10520.7,1588.1,10520.7z"/>
+		<path id="Rectángulo_362525" class="st2" d="M1587.7,10526.5h180.4c17.6,0,31.9,14.3,31.9,32l0,0c0,17.6-14.3,32-31.9,32h-180.4
+			c-17.6,0-32-14.3-32-32l0,0C1555.8,10540.8,1570.1,10526.5,1587.7,10526.5z"/>
+		<g id="Grupo_20708-4" transform="translate(23.507 13.623)">
+			<text transform="matrix(1 0 0 1 1579.132 10537.4219)" class="st3 st4 st5">Fortalecimiento de la </text>
+			<text transform="matrix(1 0 0 1 1575.562 10559.4219)" class="st3 st4 st5">economía de la granja.</text>
+		</g>
+	</g>
+</g>
 </svg>

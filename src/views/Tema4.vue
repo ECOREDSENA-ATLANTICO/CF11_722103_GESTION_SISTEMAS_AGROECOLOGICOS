@@ -111,7 +111,7 @@
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
       h2.mb-0 Bioabonos orgánicos
 
-    p.mb-4 Los bioabonos son fertilizantes orgánicos - minerales que contiene elementos nutrientes como N, P, K, Ca, Mg S + elementos menores; también pueden tener microorganismos como hongos Micorrízicos, bacterias fijadoras de nitrógeno y agentes bioquímicos fisiológicamente activos como enzimas, aminoácidos, ácidos húmicos y aminoácidos entre otros, que pueden acelerar la toma de los nutrientes por las plantas y/o absorberlos para ser metabolizados. 
+    p.mb-4 Los bioabonos son fertilizantes orgánicos - minerales que contiene elementos nutrientes como N, P, K, Ca, Mg S + elementos menores; también pueden tener microorganismos como hongos Micorrízicos, bacterias fijadoras de nitrógeno y agentes bioquímicos fisiológicamente activos como enzimas, aminoácidos, ácidos húmicos, entre otros, que pueden acelerar la toma de los nutrientes por las plantas y/o absorberlos para ser metabolizados. 
     
     .row
       .col-10.mx-auto
@@ -235,7 +235,7 @@
                   b.text-white Construcción biofábrica.
                 p.text-white.mb-0 A continuación, puede revisar el documento para la construcción de la biofábrica de la regional Cauca y el Centro Agropecuario del SENA hecho por una de sus instructoras. 
             .col-md-2.mb-3.mb-sm-0.p-2
-              a.boton.color-acento-botones(href="#" target="_blank")
+              a.boton.color-acento-botones(href="http://repositorio.unicauca.edu.co:8080/bitstream/handle/123456789/892/ANEXO%20C.pdf?sequence=2&isAllowed=y" target="_blank")
                 span Enlace
                 i.fas.fa-link
 

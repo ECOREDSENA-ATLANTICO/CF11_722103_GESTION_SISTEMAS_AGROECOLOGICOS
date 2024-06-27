@@ -31,7 +31,7 @@
         img.img-t.bottom-left(src='@/assets/curso/temas/tema1/img13.svg' alt='Imagen Decorativa' style="width: 75px").m-auto
       figure
         img.img-t.top-right(src='@/assets/curso/temas/tema1/img14.svg' alt='Imagen Decorativa' style="width: 42px").m-auto
-          
+       
       .p-2.grd--green-lightgreen.tarjeta
         .p-4.clr--white.tarjeta
           .row.align-items-center
@@ -40,7 +40,9 @@
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema1/img12.svg' alt='Imagen Decorativa' style="width: 350px").m-auto
-          
+      figcaption Nota. Tomado de https://www.dreamstime.com/
+      
+     
 
    
     p.mb-5 Para garantizar que los alimentos producidos cumplen con los requisitos de calidad exigidos por el consumidor, se debe evaluar y evidenciar que todos los equipos, utensilios y herramientas que se utilizan en las labores de campo, cosecha y poscosecha se encuentran ubicados en un espacio exclusivo para tal fin y que además, presentan buenas condiciones y permanecen limpios y organizados. Es fundamental contar con un programa de mantenimiento preventivo y calibración para cada uno de estos elementos.

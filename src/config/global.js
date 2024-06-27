@@ -273,7 +273,7 @@ export default {
       referencia:
         'Ángel, J. (2018). La Lombricultura o Vermicultura. Una idea rentable. Tv Agro',
       tipo: 'Video',
-      descarga: 'https://www.youtube.com/watch?v=fQn92aN0k8I',
+      link: 'https://www.youtube.com/watch?v=fQn92aN0k8I',
     },
   ],
   glosario: [
@@ -318,7 +318,7 @@ export default {
       referencia:
         'Brechelt, A. (2004). Manejo Ecológico del Suelo. Fundación Agricultura y Medio Ambiente (FAMA). Red de Acción de Plaguicidas y sus Alternativas para América Latina (RAP-AL).',
       link:
-        'https://www.midagri.gob.pe/portal/download/pdf/ais-2015/manejo-ecol-suelo-fama.pdf',
+        'https://bizibaratzea.eus/storage/liburutegia/dokumentuak/manejo_ecologico_del_suelo.pdf',
     },
     {
       referencia:
@@ -329,14 +329,13 @@ export default {
     {
       referencia:
         'IAEA. Organismo Internacional de Energía Atómica. (s.f.). Mejora en la fertilidad del suelo.',
-      link:
-        'https://inta.gob.ar/sites/default/files/inta_manual_drenaje_de_suelos_para_uso_agricola.pdf',
+      link: 'https://www.iaea.org/es/temas/mejora-de-la-fertilidad-del-suelo',
     },
     {
       referencia:
         'Ramos Agüero, D., & Terry Alfonso, E. (2014). Generalidades de los abonos orgánicos: Importancia del Bocashi como alternativa nutricional para suelos y plantas. Cultivos Tropicales, 35(4), 52–59.',
       link:
-        '. http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0258-59362014000400007',
+        'http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S0258-59362014000400007',
     },
     {
       referencia:
