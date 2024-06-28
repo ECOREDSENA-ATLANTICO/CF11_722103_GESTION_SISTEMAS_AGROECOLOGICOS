@@ -99,20 +99,26 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Prácticas de conservación',
+            titulo: 'Manejo ecológico del suelo',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Zanjas, trinchos y barreras vivas',
+            titulo: 'Prácticas de conservación',
             hash: 't_3_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.3',
-            titulo: 'Abonos verdes, materia orgánica y terrazas',
+            titulo: 'Zanjas, trinchos y barreras vivas',
             hash: 't_3_3',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '3.4',
+            titulo: 'Abonos verdes, materia orgánica y terrazas',
+            hash: 't_3_4',
           },
         ],
       },
@@ -247,11 +253,6 @@ export default {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
-      },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
       },
       {
         icono: 'far fa-registered',

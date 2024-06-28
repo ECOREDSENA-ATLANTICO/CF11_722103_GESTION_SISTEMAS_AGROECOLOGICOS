@@ -148,7 +148,7 @@
               p.mb-0 Consiste en la transformación del humus en compuestos solubles asimilables por las plantas. Es un proceso lento (1 año) y solo se realiza en condiciones altamente especializadas.
 
 
-    figure.d-flex.align-items-center.mb-4#t_3_1
+    figure.d-flex.align-items-center.mb-4#t_3_2
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.mb-0 Prácticas de conservación
 
@@ -183,7 +183,7 @@
       .p-5.clr--lightgreen.mb-2(data-aos="fade-left")
           p.mb-0 El concepto de conservación del suelo hace referencia a un conjunto de técnicas y prácticas agrícolas que evitan la degradación, la erosión y el agotamiento de éste. Las técnicas de conservación del suelo están orientadas a un uso a largo plazo, pensando en el futuro. Tomando medidas adecuadas y oportunas, los agricultores aumentan el rendimiento de sus campos para los años venideros.
 
-    figure.d-flex.align-items-center.mb-4#t_3_2
+    figure.d-flex.align-items-center.mb-4#t_3_3
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
       h2.mb-0 Zanjas, trinchos y barreras vivas
 
@@ -208,7 +208,7 @@
           img.mb-3.mb-md-0.img-t.m-auto(src='@/assets/curso/temas/tema3/img32.png', alt='Imagen Decorativa')
        
 
-    figure.d-flex.align-items-center.mb-4#t_3_3
+    figure.d-flex.align-items-center.mb-4#t_3_4
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.mb-0 Abonos verdes, materia orgánica y terrazas
 
