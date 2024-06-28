@@ -324,7 +324,7 @@ export default {
       referencia:
         'Gagliano, E. (2019). Lombricompuesto, una alternativa para abonar. Instituto Nacional de Tecnología Agropecuaria.',
       link:
-        'https://inta.gob.ar/documentos/lombricompuesto-una-alternativa-para-abonar',
+        'https://repository.agrosavia.co/bitstream/handle/20.500.12324/15991/39972_24527.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
