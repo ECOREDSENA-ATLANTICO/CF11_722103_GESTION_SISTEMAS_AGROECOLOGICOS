@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'El uso de agroquímicos está afectando considerablemente los suelos y la reparación de los mismos, siendo urgente garantizar la seguridad alimentaria, se hace necesario la preparación y el mejoramiento de los suelos mediante el uso de abonos y fertilizantes orgánicos que devuelvan la capacidad productiva de estos. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],

@@ -26,8 +26,7 @@
        
         p.mb-5 Este permiso lo otorgan las Corporaciones Autónomas Regionales al cual pertenezca el territorio en el que se tiene el proyecto de abastecimiento de agua después de la evaluación de la solicitud presentada. Los requerimientos para la solicitud varían de acuerdo a la corporación territorial a la que se dirija, pero generalmente se tiene en cuenta lo siguiente:
 
-        SlyderF.mb-5(columnas="col-lg-6 col-xl-3 col-sm-6")
-
+        SlyderF.mb-5(columnas="col-md-6 col-xl-3 col-sm-6")
           .tarjeta-avatar
             img.img-t(src='@/assets/curso/temas/tema2/img13.png' alt='AvatarTop')
             .tarjeta.clr--lightgreen
@@ -63,6 +62,7 @@
             .tarjeta.clr--lightgreen
               p.p-3.pt-4.mb-3.text-center 
                 b Solicitud de acuerdo al formato de la entidad.
+          
   
         p.mb-5.col-md-10.mx-auto Para la solicitud del permiso, es necesario revisar el formato único nacional de concesión de aguas superficiales, como  la guía para la presentación de la solicitud ya que contiene la guía de diligenciamiento y los documentos anexos de la solicitud. 
 
