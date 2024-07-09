@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 4
       h1 Biofábrica
@@ -114,7 +114,7 @@
     p.mb-4 Los bioabonos son fertilizantes orgánicos - minerales que contiene elementos nutrientes como N, P, K, Ca, Mg S + elementos menores; también pueden tener microorganismos como hongos Micorrízicos, bacterias fijadoras de nitrógeno y agentes bioquímicos fisiológicamente activos como enzimas, aminoácidos, ácidos húmicos, entre otros, que pueden acelerar la toma de los nutrientes por las plantas y/o absorberlos para ser metabolizados. 
     
     .row
-      .col-10.mx-auto
+      .mx-auto.col-xs-12.col-md-10
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img.img-t.m-auto(src='@/assets/curso/temas/tema4/img54.svg', alt='Imagen Decorativa')
@@ -215,7 +215,7 @@
     p.mb-4 La construcción de la biofábrica dependerá de la cantidad de recursos con los que se cuente y a la escala que se desea implementar. Generalmente la instalación de una biofábrica se realiza con materiales de fácil obtención económica como la guadua, madera, zinc, eternit, plástico y mallas para control de vectores, y los insumos para la producción dependerá de cada cultivo en particular y las cantidades de materia prima de la que se pueda disponer 
 
     .row
-      .col-10.mx-auto
+      .mx-auto.col-xs-12.col-md-10
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img.img-t.m-auto(src='@/assets/curso/temas/tema4/img67.svg', alt='Imagen Decorativa')
@@ -224,7 +224,7 @@
               p.mb-0 Es importante tener claro la deficiencia de nutrientes de los suelos para así definir cuáles de los procesos para crear abonos orgánicos es el más efectivo, por ejemplo, la gallinaza es el estiércol más rico en nitrógeno a comparación de los de otros animales ya que su alto contenido de urea hace que la concentración sea más alta.
 
     .row
-      .col-10.mx-auto
+      .mx-auto.col-xs-12.col-md-10
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img.img-t.m-auto(src='@/assets/curso/temas/tema4/img68.svg', alt='Imagen Decorativa')

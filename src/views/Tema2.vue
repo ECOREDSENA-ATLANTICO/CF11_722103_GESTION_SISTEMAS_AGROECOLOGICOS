@@ -3,7 +3,7 @@
     BannerInterno
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
   
-      .titulo-principal.color-acento-contenido
+      .titulo-principal.color-acento-contenido(data-aos="flip-up")
         .titulo-principal__numero
           span 2
         h1(data-aos="fade-right") Acondicionamiento del terreno
@@ -90,14 +90,13 @@
 
         p.mb-4 Existen dos tipos de drenaje, los que están construidos a cielo abierto o descubiertos y los subterráneos. Para la construcción de cualquiera de ellos es absolutamente necesaria la intervención de maquinaria (retroexcavadora) o realizarlos a mano. 
 
-        .row
-          .clr--lightorange.mb-5.position-relative
-            .col-md-8.p-4
+        .row.clr--lightorange.mb-5.position-relative.mx-auto
+            .col-md-12.p-4.col-lg-8
               p El flujo de agua corre por la zanja o por la tubería (si es cerrado) evacuando el fluido del área de los cultivos, así se evita la sobre saturación de agua en los suelos que ocasiona la pérdida de los nutrientes necesarios para una buena cosecha. 
               p.mb-0 Las desventajas que tienen los dos sistemas en la limpieza general, en el caso de los drenajes cerrados se puede presentar acumulación de sedimentos que generan una obstrucción al paso libre de las aguas y en los abiertos se pierde eficiencia por la acumulación de malezas acuáticas o sedimentación, es por ello que la limpieza en los sistemas abiertos debe realizarse por lo menos una vez al año. En el caso de los drenajes cerrados se deben realizar los cálculos del caudal promedio para su diseño, propendiendo que la pendiente no sea cercana a cero (0) para evitar la sedimentación interna. 
-            .col-md-3
+            .col-md-3.d-none.d-lg-block
               figure
-                img.img-t.right-bottom.d-none.d-lg-block(src='@/assets/curso/temas/tema2/img22.png', alt='Imagen Decorativa')   
+                img.img-t.right-bottom(src='@/assets/curso/temas/tema2/img22.png', alt='Imagen Decorativa')   
 
         figure.d-flex.align-items-center.mb-4#t_2_3
           img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')

@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 3
       h1 Técnicas de conservación de suelos 
@@ -205,7 +205,7 @@
               p.mb-0 La barrera viva tiene varios usos entre los que se destacan el cerramiento perimetral de la finca, control de olores de los puntos de beneficio, control de la velocidad del viento, sombra de especies pecuarias, residencia de aves entre otros. 
       .col-md-4
          figure
-          img.mb-3.mb-md-0.img-t.m-auto(src='@/assets/curso/temas/tema3/img32.png', alt='Imagen Decorativa')
+          img.mb-3.img-t.m-auto.mb-5(src='@/assets/curso/temas/tema3/img32.png', alt='Imagen Decorativa')
        
 
     figure.d-flex.align-items-center.mb-4#t_3_4
