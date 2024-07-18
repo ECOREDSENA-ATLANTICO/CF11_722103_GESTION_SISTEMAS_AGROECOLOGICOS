@@ -2,10 +2,9 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
-
     .row.justify-content-center
-      .col-lg-12.mb-5
+      p.mb-5 En este componente se consolida el material de estudio para que el aprendiz conozca e identifique la preparación y manejo del suelo de acuerdo con criterios técnicos y principios agroecológicos y el cual puede expresar un resumen del presente componente a través del siguiente esquema:
+      .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/sintesis.svg", alt="alt")
       .col-auto

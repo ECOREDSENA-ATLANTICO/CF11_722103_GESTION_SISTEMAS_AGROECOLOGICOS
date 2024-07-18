@@ -118,7 +118,9 @@
         p.mb-4 Las medidas correctivas y enmiendas se pueden generar a través de procesos de mejora de los cuales existen varias estrategias que se comparten a través del siguiente vídeo: 
         figure(data-aos="fade-left")
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/-Y8uT-NJMT0?si=kbnH0vN4Zp54Kprx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/uc_HgWQ98FY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+        
       
 </template>
 

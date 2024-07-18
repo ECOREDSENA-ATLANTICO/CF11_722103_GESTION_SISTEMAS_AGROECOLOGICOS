@@ -41,7 +41,7 @@
 
     p.mb-5 Definir el lugar donde se va a implementar la biofábrica o el sitio destinado para la producción de los abonos orgánicos en la finca es un tema que debe ser pensado con cabeza fría, debido a que estas instalaciones a menudo producen incomodidades a los residentes del sector por la emisión de olores y presencia de vectores por la misma razón. A continuación, se detallan algunas condiciones que debe tener en cuenta: 
  
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+    SlyderF.mb-5(columnas="col-md-6 col-xl-4")
       .tarjeta-avatar
         img.img-t(src='@/assets/curso/temas/tema4/img44.png' alt='AvatarTop')
         .tarjeta.clr--lightgreen
@@ -79,7 +79,7 @@
 
       .tarjeta-avatar
         img.img-t(src='@/assets/curso/temas/tema4/img49.png' alt='AvatarTop')
-        .tarjeta.clr--lightgreen
+        .tarjeta.clr--lightgreen.w-100
           p.p-3.pt-4.mb-0.text-center 
             b Dotar de cobertura superior.
       

@@ -9,7 +9,7 @@
 
     p.mb-5 Las conservaciones de los suelos son fundamentales para la implementación de la agricultura sostenible, por tal razón, a continuación, se referencian algunos tipos de técnicas de conservación de suelos: 
 
-    SlyderF(columnas="col-lg-6 col-xl-4").mb-5
+    SlyderF(columnas="col-md-6 col-xl-4").mb-5
       .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
         .indicador--hover(v-if="indicadorTarjetaSlide")
         .tarjeta-slide__contenedor
