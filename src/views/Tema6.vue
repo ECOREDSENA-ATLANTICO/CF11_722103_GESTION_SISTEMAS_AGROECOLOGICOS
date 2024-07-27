@@ -27,9 +27,13 @@
             p.mb-0 De acuerdo a lo anterior a continuación puede verificar la transición de las normas que han surgido y su alcance: 
 
       .tabla-b.color-acento-contenido.mb-5
-        .tabla-b__header
-          h4.mb-0 Leyes y Decretos
         table
+          tr.clr--acccent-color
+            th 
+              h4.mb-0 Leyes o Normas
+            th 
+              h4.mb-0 Descripción
+
           tr
             th Ley 23 de 1973
             td Principios fundamentales sobre prevención y control de la contaminación del aire, agua y suelo
@@ -132,7 +136,7 @@
                   img.img-t.m-auto(src='@/assets/curso/temas/tema6/img98.svg', alt='Imagen Decorativa')
                 .tarjeta.clr--lightorange.shadow-sm.align-items-center.d-flex
                   .p-4
-                    h4.mb-0 Abierto
+                    h4.mb-0 Abiertos
                     p.mb-0 El primero es el que está disponible la información al público, no es de carácter privado y la información registrada en este es básica y precisa.
             .col-md-6.d-flex
               .tarjeta-avatar-b.mb-3
@@ -140,7 +144,7 @@
                     img.img-t.m-auto(src='@/assets/curso/temas/tema6/img99.svg', alt='Imagen Decorativa')
                   .tarjeta.clr--lightgreen.shadow-sm.align-items-center.d-flex
                     .p-4
-                      h4.mb-0 Cerrado
+                      h4.mb-0 Cerrados
                       p.mb-0 El segundo tipo contiene información más detallada y de carácter privado (costos, cantidades, etc.) la cual es de dominio directivo, este tipo de formato se utiliza para las evaluaciones y control interno de la empresa.
               
       p.mb-5 Es válido mencionar que esta información puede ser requerida por los entes de control y la empresa estará en obligación de suministrarla. 

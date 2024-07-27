@@ -19,7 +19,7 @@
   
     figure.d-flex.align-items-center.mb-4#t_5_1
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
-      h2.mb-0.align-middle Concepto y proceso de lombricompuesto
+      h2.mb-0.align-middle Concepto y proceso del lombricompuesto
     
     p.mb-5 El lombricompuesto en un abono natural muy rico en nutrientes y es obtenido bajo la acción de la lombriz roja californiana que a partir de los restos húmedos y en descomposición de materia orgánica, realiza un proceso de digestión que tiene como resultado el lombricompuesto.
 
@@ -95,7 +95,7 @@
       h2.mb-0.align-middle Concepto y tipo de inoculantes biológicos y variables de control
       
     p Un inoculante biológico es un producto elaborado a partir de una o más cepas de microorganismos benéficos o sus metabolitos que al aplicarse al suelo o a las semillas tienen un efecto positivo sobre la nutrición, sanidad, rendimiento y adaptación en cultivos de importancia económica. 
-    p.mb-5 El Instituto Colombiano Agropecuario ICA para el 2015 tenía registrado 55 inoculantes biológicos relacionados por su actividad biológica los cuales de describen a continuación (ver figura 7):
+    p.mb-5 El Instituto Colombiano Agropecuario ICA para el 2015 tenía registrado 55 inoculantes biológicos relacionados por su actividad biológica los cuales se describen a continuación (ver figura 7):
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
       h5 Figura 7.

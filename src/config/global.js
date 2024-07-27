@@ -1,6 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'Gestión de sistemas agroecológicos',
+    componenteFormativo:
+      'Preparación y manejo del suelo de acuerdo con criterios técnicos y principios agroecológicos',
     descripcionCurso:
       'El uso de agroquímicos está afectando considerablemente los suelos y la reparación de los mismos, siendo urgente garantizar la seguridad alimentaria, se hace necesario la preparación y el mejoramiento de los suelos mediante el uso de abonos y fertilizantes orgánicos que devuelvan la capacidad productiva de estos. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -169,7 +170,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '5.1',
-            titulo: 'Concepto y proceso de lombricompuesto',
+            titulo: 'Concepto y proceso del lombricompuesto',
             hash: 't_4_1',
           },
           {
@@ -329,7 +330,7 @@ export default {
       referencia:
         'Brechelt, A. (2004). Manejo Ecológico del Suelo. Fundación Agricultura y Medio Ambiente (FAMA). Red de Acción de Plaguicidas y sus Alternativas para América Latina (RAP-AL).',
       link:
-        'https://bizibaratzea.eus/storage/liburutegia/dokumentuak/manejo_ecologico_del_suelo.pdf',
+        'https://www.midagri.gob.pe/portal/download/pdf/ais-2015/manejo-ecol-suelo-fama.pdf',
     },
     {
       referencia:
@@ -360,7 +361,7 @@ export default {
       autores: [
         {
           nombre: 'Tatiana Villamil',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Equipo',
           centro: 'Dirección General',
         },
         {
@@ -387,7 +388,7 @@ export default {
         },
         {
           nombre: 'Paola Alexandra Moya Peralta',
-          cargo: 'Diseñadora instruccional',
+          cargo: 'Diseñadora Instruccional',
           centro:
             'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
         },
@@ -398,7 +399,7 @@ export default {
         },
         {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Corrector de estilo',
+          cargo: 'Corrector de Estilo',
           centro: 'Centro de Diseño y Metrología - Distrito Capital',
         },
       ],
@@ -408,19 +409,19 @@ export default {
       autores: [
         {
           nombre: 'Nelson Vera',
-          cargo: 'Producción audiovisual',
+          cargo: 'Producción Audiovisual',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Alexander Acosta',
-          cargo: 'Producción audiovisual',
+          cargo: 'Producción Audiovisual',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Carmen Martínez',
-          cargo: 'Producción audiovisual',
+          cargo: 'Producción Audiovisual',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
@@ -432,7 +433,7 @@ export default {
         },
         {
           nombre: 'Eulices Orduz Amezquita',
-          cargo: 'Diseño de contenidos digitales',
+          cargo: 'Diseño de Contenidos Digitales',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
@@ -443,25 +444,25 @@ export default {
       autores: [
         {
           nombre: 'Fabian Cuartas',
-          cargo: 'Validación de diseño y contenido',
+          cargo: 'Validación de Diseño y Contenido',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Gilberto Herrera',
-          cargo: 'Validación de diseño y contenido',
+          cargo: 'Validación de Diseño y Contenido',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
@@ -469,7 +470,7 @@ export default {
           nombre: 'Juan Carlos Cardona Acosta',
           cargo: 'Validación de recursos digitales',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },

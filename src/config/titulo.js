@@ -1,1 +1,2 @@
-module.exports = 'Gestión de sistemas agroecológicos'
+module.exports =
+  'Preparación y manejo del suelo de acuerdo con criterios técnicos y principios agroecológicos'

@@ -50,9 +50,9 @@
 
     figure.d-flex.align-items-center.mb-4#t_1_2
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
-      h2.mb-0 Operación y manejo de manuales técnicos 
+      h2.mb-0  manuales técnicos 
     
-    p.mb-4 Desde la planificación se deben elaborar los manuales de procesos y estos a su vez, deberán ser socializados con el personal encargado de las actividades agrícolas a desarrollar.  Estos manuales deben ser fáciles de interpretar y deben tener la información necesaria para que, en caso de una eventualidad, cualquier persona de la planta pueda desarrollar las actividades con calidad (ver figura 2).
+    p.mb-4 Desde la planificación se deben elaborar los manuales de procesos y estos, a su vez, deberán ser socializados con el personal encargado de las actividades agrícolas a desarrollar.  Estos manuales deben ser fáciles de interpretar y deben tener la información necesaria para que, en caso de una eventualidad, cualquier persona de la planta pueda desarrollar las actividades con calidad (ver figura 2).
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
       h5 Figura 2.
@@ -71,7 +71,7 @@
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='')
       h2.mb-0 Procesos de labranza
 
-    p.mb-4 Los procesos de labranza se ejecutan para la preparación de la tierra en una posterior siembra. Existen varios métodos desde los más rudimentarios como la quema de la vegetación existente hasta los procesos más avanzados con uso de maquinaria especializada y estudios técnicos de las necesidades de los suelos. Revisemos algunas de las estrategias para la implementación de acciones de mejora: 
+    p.mb-4 Los procesos de labranza se ejecutan para la preparación de la tierra en una posterior siembra. Existen varios métodos, desde los más rudimentarios como la quema de la vegetación existente hasta los procesos más avanzados con uso de maquinaria especializada y estudios técnicos de las necesidades de los suelos. Revisemos algunas de las estrategias para la implementación de acciones de mejora: 
 
     .tarjeta.p-4.mb-5.clr--lightgreen2
       SlyderA(tipo="b")
@@ -99,7 +99,7 @@
           .col-md-6.mb-4.mb-md-0
             h4 Labranza cero o siembra directa
             p No se trabaja el suelo, sino que se planta directamente. La semilla se coloca en un corte vertical de escasos centímetros efectuado con una cuchilla circular o zapata de corte. Se compacta la semilla con una rueda en el surco de siembra, permitiendo su contacto con el suelo húmedo. Esta técnica requiere el control de las malezas con herbicidas antes de sembrar y fertilizar, porque la mineralización natural de los nutrientes del suelo es muy lenta.  
-            p Es excelente para evitar la erosión del suelo. La limitación mayor, reside en el uso de las sustancias químicas que impurifican las aguas.
+            p Es excelente para evitar la erosión del suelo. La limitación mayor reside en el uso de las sustancias químicas que impurifican las aguas.
 
           .col-md-6
             figure

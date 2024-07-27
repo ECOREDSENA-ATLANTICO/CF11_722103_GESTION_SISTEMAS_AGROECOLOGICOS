@@ -70,7 +70,7 @@
           img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
           h2.mb-0 Drenajes
 
-        p.mb-4 Los drenajes tienen como función principal evacuar el exceso de agua de los niveles freáticos de la finca, esto se logra deprimiendo el nivel del drenaje por debajo de los niveles freáticos mejorando la exploración radicular en busca de nutrientes y la aireación de los suelos. 
+        p.mb-4 Los drenajes tienen como función principal evacuar el exceso de agua de los niveles freáticos de la finca, esto se logra deprimiendo el nivel del drenaje por debajo de los niveles freáticos, mejorando la exploración radicular en busca de nutrientes y la aireación de los suelos. 
 
         
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
@@ -78,7 +78,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img19.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 La instalación de drenajes es un instrumento que facilita la mejora de suelos que han sido sobreexplotados iniciando así su recuperación para volver a ser productivos. 
+            p.mb-0 La instalación de drenajes es un instrumento que facilita la mejora de suelos que han sido sobreexplotados, iniciando así su recuperación para volver a ser productivos. 
             p.mb-2 La necesidad de la adopción de los drenajes, según Liotta, la saturación del suelo y formación de freáticas superficiales, pueden tener diferentes orígenes, por ejemplo:
             p.mb-0 ● Procedencia de zonas topográficamente más altas.
             p.mb-0 ● Influencia de la presión artesiana proveniente de acuíferos profundos en años de abundancia hídrica.
@@ -113,9 +113,9 @@
           
         figure.d-flex.align-items-center.mb-4#t_2_4
           img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
-          h2.mb-0 Medidas correctivas
+          h2.mb-0 Medidas correctivas y enmiendas
         
-        p.mb-4 Las medidas correctivas y enmiendas se pueden generar a través de procesos de mejora de los cuales existen varias estrategias que se comparten a través del siguiente vídeo: 
+        p.mb-4 Las medidas correctivas y enmiendas se pueden generar a través de procesos de mejora, de los cuales existen varias estrategias que se comparten a través del siguiente vídeo: 
         figure(data-aos="fade-left")
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/uc_HgWQ98FY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

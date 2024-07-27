@@ -55,7 +55,7 @@
         .tarjeta-slide__contenedor
           .tarjeta-slide__contenido.p-4.p-xl-5
             h4 Cultivo de franjas
-            p  Esta técnica combina cultivos de gran tamaño con unos de bajo tamaño lo cual ayuda a la protección de los vientos, acción de las aves, entre otros.
+            p  Esta técnica combina cultivos de gran tamaño con unos de bajo tamaño, lo cual ayuda a la protección de los vientos, acción de las aves, entre otros.
           .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img31.png')})`}")
 
       .tarjeta.tarjeta-slide.arriba.clr--lightgreen.d-flex.align-items-center(@mouseover="indicadorTarjetaSlide = false")
@@ -152,7 +152,7 @@
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
       h2.mb-0 Prácticas de conservación
 
-    p.mb-5 La conservación de suelo es muy importante en la agricultura debido a que un suelo en óptimas condiciones garantizará un rendimiento ideal de los cultivos instalados en él. El efecto de la conservación de los suelos a menudo no genera resultados en corto tiempo debido a que la acción de los microorganismos con la materia orgánica requiere de tiempos largos, sin embargo a largo plazo se reflejan los resultados como mantenimiento de la fertilidad, minimización de la contaminación y la erosión, entre otras que se relacionan a continuación: 
+    p.mb-5 La conservación de suelo es muy importante en la agricultura debido a que un suelo en óptimas condiciones garantizará un rendimiento ideal de los cultivos instalados en él. El efecto de la conservación de los suelos a menudo no genera resultados en corto tiempo debido a que la acción de los microorganismos con la materia orgánica requiere de tiempos largos, sin embargo a largo plazo se reflejan los resultados como mantenimiento de la fertilidad, minimización de la contaminación y la erosión, entre otras, que se relacionan a continuación: 
     p.mb-3.text-center Haz clic sobre cada uno de los elementos y recuerda los beneficios de la conservación del suelo: 
 
     .row.mb-5
@@ -165,7 +165,7 @@
               img.img-t.mx-auto(src='@/assets/curso/temas/tema3/img31.svg', alt='Imagen Decorativa')
 
           .tarjeta.p-3.px-4.shadow(x="67.4%" y="66.2%" numero="")
-            p.m-0 Reducción en la erosión: la intervención continua de los suelos provocan desprendimiento de los mismos generando erosión.
+            p.m-0 Reducción en la erosión: la intervención continua de los suelos provocan desprendimiento de los mismos, generando erosión.
           
           .tarjeta.p-3.px-4.shadow(x="59.2%" y="59.3%" numero="")
             p.m-0 Promueve la infiltración de agua: la siembra directa reduce la evapotranspiración y la compactación de los suelos, aportando a la circulación de agua. 
