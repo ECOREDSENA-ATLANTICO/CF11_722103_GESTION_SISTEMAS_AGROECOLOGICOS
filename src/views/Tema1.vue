@@ -36,7 +36,7 @@
         .p-4.clr--white.tarjeta
           .row.align-items-center
             .col-md-6
-              p.p-2 Las herramientas son utilizadas en todos los procesos productivos, desde el arado, ya sea manual o mecánico hasta el transporte de los productos finales en vehículos de tracción animal o motorizados. El uso de estos proporciona disminución en los tiempos aumentando la productividad y en la mayoría de los casos, disminuyendo los costos de producción por los altos rendimientos obtenidos.
+              p.p-2 Las herramientas son utilizadas en todos los procesos productivos, desde el arado, ya sea manual o mecánico, hasta el transporte de los productos finales en vehículos de tracción animal o motorizados. El uso de estos proporciona disminución en los tiempos, aumentando la productividad y en la mayoría de los casos, disminuyendo los costos de producción por los altos rendimientos obtenidos.
             .col-md-6
               figure
                 img(src='@/assets/curso/temas/tema1/img12.svg' alt='Imagen Decorativa' style="width: 350px").m-auto

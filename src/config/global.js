@@ -330,18 +330,24 @@ export default {
       referencia:
         'Brechelt, A. (2004). Manejo Ecológico del Suelo. Fundación Agricultura y Medio Ambiente (FAMA). Red de Acción de Plaguicidas y sus Alternativas para América Latina (RAP-AL).',
       link:
-        'https://www.midagri.gob.pe/portal/download/pdf/ais-2015/manejo-ecol-suelo-fama.pdf',
+        'https://bizibaratzea.eus/storage/liburutegia/dokumentuak/manejo_ecologico_del_suelo.pdf',
     },
     {
       referencia:
         'Gagliano, E. (2019). Lombricompuesto, una alternativa para abonar. Instituto Nacional de Tecnología Agropecuaria.',
       link:
-        'https://repository.agrosavia.co/bitstream/handle/20.500.12324/15991/39972_24527.pdf?sequence=1&isAllowed=y',
+        'https://inta.gob.ar/documentos/lombricompuesto-una-alternativa-para-abonar',
     },
     {
       referencia:
         'IAEA. Organismo Internacional de Energía Atómica. (s.f.). Mejora en la fertilidad del suelo.',
       link: 'https://www.iaea.org/es/temas/mejora-de-la-fertilidad-del-suelo',
+    },
+    {
+      referencia:
+        'Liotta, M. (2015).  Manual de Capacitación: Drenaje de suelos para uso agrícola. Primera edición.',
+      link:
+        'https://inta.gob.ar/sites/default/files/inta_manual_drenaje_de_suelos_para_uso_agricola.pdf',
     },
     {
       referencia:
@@ -427,7 +433,7 @@ export default {
         },
         {
           nombre: 'Álvaro Araújo Angarita',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollador Full Stack',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
@@ -468,7 +474,7 @@ export default {
         },
         {
           nombre: 'Juan Carlos Cardona Acosta',
-          cargo: 'Validación de recursos digitales',
+          cargo: 'Validación de Recursos Digitales',
           centro:
             'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
