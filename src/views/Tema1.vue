@@ -50,7 +50,7 @@
 
     figure.d-flex.align-items-center.mb-4#t_1_2
       img.img-t.d-inline-block.align-middle.me-2(src='@/assets/curso/temas/img101.svg', alt='Imagen Decorativa')
-      h2.mb-0  manuales técnicos 
+      h2.mb-0 Operación y manejo de manuales técnicos 
     
     p.mb-4 Desde la planificación se deben elaborar los manuales de procesos y estos, a su vez, deberán ser socializados con el personal encargado de las actividades agrícolas a desarrollar.  Estos manuales deben ser fáciles de interpretar y deben tener la información necesaria para que, en caso de una eventualidad, cualquier persona de la planta pueda desarrollar las actividades con calidad (ver figura 2).
 
